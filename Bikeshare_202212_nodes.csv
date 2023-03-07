@@ -1,0 +1,656 @@
+﻿Id,Label,Station Id,Latitude,Longitude,Capacity,PhysicalConfiguration,PostalCode,PostalCodeArea,Name
+Charles St W / Balmuto St - SMART,Charles St W / Balmuto St - SMART,7281,43.668427,-79.38725,20,SMARTMAPFRAME,NULL,NULL,Charles St W / Balmuto St - SMART
+King St W / Charlotte St,King St W / Charlotte St,7324,43.645572,-79.39399,23,REGULAR,NULL,NULL,King St W / Charlotte St (West Side)
+Wellington St W / York St,Wellington St W / York St,7469,43.646734,-79.38301,23,REGULAR,M5J 2R2,M5J,Wellington St W / York St
+Temperance St / Bay St,Temperance St / Bay St,7713,43.6506,-79.381285,22,REGULAR,M5H 2V6,M5H,NULL
+Soho St / Queen St W,Soho St / Queen St W,7217,43.6494896,-79.393535,7,REGULAR,NULL,NULL,Soho St / Queen St W
+King St E / Victoria St,King St E / Victoria St,7333,43.6495789,-79.3762096,19,REGULAR,NULL,NULL,King St E / Victoria St
+Lower Simcoe St / Bremner Blvd,Lower Simcoe St / Bremner Blvd,7467,43.64283,-79.38409,14,REGULAR,M5J 3A6,M5J,Lower Simcoe St / Bremner Blvd
+Central Tech  (Harbord St),Central Tech  (Harbord St),7191,43.661975,-79.407896,11,REGULAR,NULL,NULL,Central Tech  (Harbord St)
+Bathurst St / Lennox St,Bathurst St / Lennox St,7155,43.663808,-79.410491,19,REGULAR,NULL,NULL,Bathurst St / Lennox St
+King St W / Joe Shuster Way,King St W / Joe Shuster Way,7148,43.639444,-79.423611,15,REGULAR,NULL,NULL,King St W / Joe Shuster Way
+Ontario Place Blvd / Lake Shore Blvd W,Ontario Place Blvd / Lake Shore Blvd W,7171,43.6322445,-79.4108105,27,REGULAR,NULL,NULL,Ontario Place Blvd / Lake Shore Blvd W (East)
+Bay St / St. Joseph St,Bay St / St. Joseph St,7026,43.665527,-79.387499,15,REGULAR,NULL,NULL,Bay St / St. Joseph St
+Edward St / Yonge St,Edward St / Yonge St,7041,43.656729,-79.382736,23,REGULAR,NULL,NULL,Edward St / Yonge St
+University Ave / Richmond St W,University Ave / Richmond St W,7646,43.6503935,-79.3860211,27,REGULAR,M5H 4G1,M5H,University Ave / Richmond St W
+Yonge St / St Clair Ave,Yonge St / St Clair Ave,7642,43.6885046,-79.3940052,19,REGULAR,M4T 1Z2,M4T,Yonge St / St Clair Ave
+College Park - Yonge St Entrance,College Park - Yonge St Entrance,7418,43.65988,-79.38279,25,REGULAR,M5B 2H4,M5B,College Park - Yonge St Entrance
+King St W / Portland St,King St W / Portland St,7720,43.644395,-79.4006543,16,SMARTMAPFRAME,M5V 1M6,M5V,NULL
+Baldwin St / Henry St,Baldwin St / Henry St,7545,43.6560758,-79.393259,15,REGULAR,M5T 1L2,M5T,Baldwin St / Henry St
+Front St E / Scott St,Front St E / Scott St,7375,43.6476616,-79.37549,10,REGULAR,NULL,NULL,Front St E / Scott St
+Euclid Ave / Bloor St W,Euclid Ave / Bloor St W,7040,43.664467,-79.414783,19,REGULAR,NULL,NULL,Euclid Ave / Bloor St W
+King St W / Stafford St,King St W / Stafford St,7158,43.6422222,-79.41111111,15,REGULAR,NULL,NULL,King St W / Stafford St
+Bathurst St / Fort York Blvd,Bathurst St / Fort York Blvd,7176,43.639179,-79.399595,19,REGULAR,NULL,NULL,Bathurst St / Fort York Blvd
+Bathurst St / Adelaide St W,Bathurst St / Adelaide St W,7298,43.645324,-79.40345,25,REGULAR,NULL,NULL,Bathurst St / Adelaide St W
+11 Spadina Rd,11 Spadina Rd,7710,43.6677246,-79.4041365,18,ELECTRICBIKESTATION,M5R2S9,M5R,NULL
+Queen St W / John St,Queen St W / John St,7542,43.650077,-79.391291,23,REGULAR,M5V 1Z8,M5V,Queen St W / John St
+Bartlett Parkette,Bartlett Parkette,7526,43.6702236,-79.4360232,23,REGULAR,M6H 2B8,M6H,Bartlett Parkette
+Bloor St W / Huron St,Bloor St W / Huron St,7419,43.667023,-79.401805,27,REGULAR,M5S 2R7,M5S,Bloor St W / Huron St
+King St E / Church St,King St E / Church St,7074,43.6500392,-79.3733541,15,REGULAR,M5C 1G6,M5C,King St E / Church St
+519 Church St,519 Church St,7241,43.666874,-79.381155,12,SMARTMAPFRAME,M4Y 2C9,M4Y,519 Church St - SMART
+Bay St / Wellesley St W,Bay St / Wellesley St W,7030,43.664088,-79.387095,51,REGULAR,NULL,NULL,Bay St / Wellesley St W
+St. Andrew's Playground Park,St. Andrew's Playground Park,7718,43.646552,-79.399586,11,REGULAR,M5V 2M5,M5V,NULL
+Granby St / Church St - SMART,Granby St / Church St - SMART,7292,43.6614605,-79.3789457,24,SMARTMAPFRAME,M5B 1J1,M5B,Granby St / Church St - SMART
+Walton St / Elizabeth St - SMART,Walton St / Elizabeth St - SMART,7263,43.657838,-79.38631,20,SMARTMAPFRAME,M8Z4T4,M8Z,Walton St / Elizabeth St - SMART
+Dalton Rd / Bloor St W,Dalton Rd / Bloor St W,7061,43.6662942,-79.4066433,15,REGULAR,M6G1A1,M6G,Dalton Rd / Bloor St W
+Riverdale Park North (Broadview Ave),Riverdale Park North (Broadview Ave),7097,43.671172,-79.354704,15,REGULAR,NULL,NULL,Riverdale Park North (Broadview Ave)
+Ted Rogers Way / Bloor St E,Ted Rogers Way / Bloor St E,7025,43.671293,-79.380471,23,REGULAR,NULL,NULL,Ted Rogers Way / Bloor St E
+Huron St / Harbord St,Huron St / Harbord St,7058,43.6637,-79.400053,19,REGULAR,NULL,NULL,Huron/ Harbord St
+D'Arcy St / McCaul St - SMART,D'Arcy St / McCaul St - SMART,7386,43.655227,-79.39201,15,SMARTMAPFRAME,NULL,NULL,D'Arcy St. /McCaul St. SMART
+Wellesley Station Green P,Wellesley Station Green P,7001,43.66496416,-79.38355032,26,ELECTRICBIKESTATION,M4Y 1G7,M4Y,Wellesley Station Green P
+College St / Major St,College St / Major St,7078,43.6576,-79.4032,15,REGULAR,NULL,NULL,College St / Major St
+King St W / Spadina Ave,King St W / Spadina Ave,7010,43.645323,-79.395003,19,REGULAR,NULL,NULL,King St W / Spadina Ave
+Bay St / College St (East Side),Bay St / College St (East Side),7006,43.660439,-79.385525,19,REGULAR,NULL,NULL,Bay St / College St (East Side)
+Gould St / Yonge St (Ryerson University),Gould St / Yonge St (Ryerson University),7164,43.657424,-79.381019,22,REGULAR,NULL,NULL,Gould St / Yonge St (Ryerson University)
+St. George St / Bloor St W,St. George St / Bloor St W,7002,43.667333,-79.399429,19,REGULAR,NULL,NULL,St. George St / Bloor St W
+Queen St W / Ossington Ave,Queen St W / Ossington Ave,7035,43.643975,-79.419576,23,REGULAR,NULL,NULL,Queen St W / Ossington Ave
+Jarvis St / Maitland Pl,Jarvis St / Maitland Pl,7453,43.6647688,-79.3772602,17,REGULAR,M4Y 2G8,M4Y,Jarvis St / Maitland Pl
+Rogers Rd / Prospect Cemetery,Rogers Rd / Prospect Cemetery,7744,43.68323,-79.455765,23,VAULT,M6E 4L1,M6E,NULL
+Mutual St / Shuter St (Arena Gardens),Mutual St / Shuter St (Arena Gardens),7693,43.6559476,-79.3755883,19,REGULAR,M5B 2A9,M5B,NULL
+Richmond St E / Yonge St,Richmond St E / Yonge St,7462,43.651838,-79.378743,17,REGULAR,M5C 1X7,M5C,Richmond St E / Yonge St
+Elizabeth St / Edward St (Bus Terminal),Elizabeth St / Edward St (Bus Terminal),7012,43.656026,-79.385327,15,REGULAR,NULL,NULL,Elizabeth St / Edward St (Bus Terminal)
+Dundas St E / Victoria St,Dundas St E / Victoria St,7472,0,0,0,NULL,NULL,NULL,Dundas St E / Victoria St
+Walter Saunders Park,Walter Saunders Park,7754,43.69932707,-79.44936304,15,VAULT,M6E 2S5,M6E,NULL
+St Joseph St / Bay St - SMART,St Joseph St / Bay St - SMART,7548,43.6658804,-79.3876101,20,SMARTMAPFRAME,M5S 3A5,M5S,St Joseph St / Bay St - SMART
+Spadina Ave / Harbord St - SMART,Spadina Ave / Harbord St - SMART,7285,43.6629228,-79.4018451,36,SMARTMAPFRAME,NULL,NULL,Spadina Ave / Harbord St - SMART
+Sherbourne St / Isabella St,Sherbourne St / Isabella St,7311,43.669576,-79.375961,19,REGULAR,NULL,NULL,Sherbourne St / Isabella St
+Sherbourne St / Carlton St (Allan Gardens),Sherbourne St / Carlton St (Allan Gardens),7014,43.663102,-79.373181,17,REGULAR,NULL,NULL,Sherbourne St / Carlton St (Allan Gardens)
+Bloor St W / Balmuto St,Bloor St W / Balmuto St,7276,43.669903,-79.387802,0,REGULAR,NULL,NULL,Bloor St W / Balmuto St
+Wolseley St / Augusta Ave,Wolseley St / Augusta Ave,7719,43.6484201,-79.4005192,28,REGULAR,M5T 2M4,M5T,NULL
+St. George St / Hoskin Ave,St. George St / Hoskin Ave,7190,43.6637403,-79.3980645,15,REGULAR,M5S 2E5,M5S,St. George St / Hoskin Ave
+Spadina Ave / Sussex Ave - SMART,Spadina Ave / Sussex Ave - SMART,7667,43.664028,-79.4029787,35,REGULAR,M5S 2H8,M5S,Spadina Ave / Sussex Ave - SMART
+Vanauley St / Queen St W - SMART,Vanauley St / Queen St W - SMART,7256,43.648437,-79.39838,12,SMARTMAPFRAME,NULL,NULL,Vanauley St / Queen St W - SMART
+Frederick St / King St E,Frederick St / King St E,7432,43.651118,-79.369411,23,REGULAR,M5A 4L4,M5A,Frederick St / King St E
+Taddle Creek Park,Taddle Creek Park,7131,43.66986,-79.398443,15,REGULAR,NULL,NULL,Taddle Creek Park
+Church St  / Wood St,Church St  / Wood St,7089,43.662712,-79.379903,19,REGULAR,NULL,NULL,Church St  / Wood St
+Dundonald St / Church St,Dundonald St / Church St,7024,43.66663,-79.38148,36,REGULAR,NULL,NULL,Dundonald St / Church St
+University Ave / Gerrard St W (WEST) - SMART,University Ave / Gerrard St W (WEST) - SMART,7634,43.6578449,-79.3899265,18,SMARTMAPFRAME,M5G 2M9,M5G,University Ave / Gerrard St W (WEST) - SMART
+York St / Lake Shore Blvd W,York St / Lake Shore Blvd W,7398,43.641952,-79.380723,19,REGULAR,M5J NULLA3,M5J,York St / Lakeshore St W - South
+College St / Markham St,College St / Markham St,7199,43.65638889,-79.40916667,19,REGULAR,NULL,NULL,College St / Markham St
+Bathurst St/Queens Quay(Billy Bishop Airport),Bathurst St/Queens Quay(Billy Bishop Airport),7203,43.635492,-79.398253,35,REGULAR,NULL,NULL,Bathurst St/Queens Quay(Billy Bishop Airport)
+Hillsdale Ave W / Yonge St,Hillsdale Ave W / Yonge St,7580,43.7029672,-79.3979073,15,REGULAR,M4S 2A5,M4S,Hillsdale Ave W / Yonge St
+Church St / Bloor St E,Church St / Bloor St E,7034,43.671389,-79.382919,15,REGULAR,NULL,NULL,Church St / Bloor St E
+Yonge St / Harbour St,Yonge St / Harbour St,7067,43.643795,-79.375413,39,REGULAR,NULL,NULL,Yonge St / Harbour St
+Queen's Park / Bloor St W,Queen's Park / Bloor St W,7063,43.668456,-79.393899,19,REGULAR,NULL,NULL,Queen's Park / Bloor St W
+Spadina Ave / Adelaide St W,Spadina Ave / Adelaide St W,7260,43.6472019,-79.3953394,15,REGULAR,M5V 2K8,M5V,Spadina Ave / Adelaide St W
+University Ave / Armoury St,University Ave / Armoury St,7408,43.65263,-79.38766,23,REGULAR,M5G 1S4,M5G,University Ave / Armoury St
+Richmond St E / Jarvis St Green P,Richmond St E / Jarvis St Green P,7050,43.652634,-79.374222,16,ELECTRICBIKESTATION,NULL,NULL,Richmond St E / Jarvis St Green P
+King St W / Bay St (West Side),King St W / Bay St (West Side),7015,43.64852,-79.380576,39,REGULAR,NULL,NULL,King St W / Bay St (West Side)
+Elm St/ University Ave (East Side),Elm St/ University Ave (East Side),7647,43.656373,-79.3878104,17,REGULAR,M5G 1X8,M5G,Elm St/ University Ave (East Side)
+King / Brant,King / Brant,7685,43.645102,-79.3974498,22,REGULAR,M5V 1L7,M5V,NULL
+Howard St / Sherbourne St,Howard St / Sherbourne St,7115,43.6712581,-79.376367,15,REGULAR,NULL,NULL,Howard St / Sherbourne St
+Bathurst St / Front St W,Bathurst St / Front St W,7682,43.6413479,-79.4013882,27,REGULAR,M5V 2P1,M5V,NULL
+Queen St W / Spadina Ave,Queen St W / Spadina Ave,7069,43.649147,-79.395504,11,REGULAR,NULL,NULL,Queen St W / Spadina Ave
+Augusta Ave / Denison Sq,Augusta Ave / Denison Sq,7189,43.653766,-79.4016759,15,REGULAR,NULL,NULL,Augusta Ave / Denison Sq
+Concord Ave / Bloor St W,Concord Ave / Bloor St W,7437,43.66189,-79.42679,15,REGULARLITMAPFRAME,M6H 1L1,M6H,Concord Ave / Bloor St W
+College St / Huron St,College St / Huron St,7007,43.658148,-79.398167,19,REGULAR,NULL,NULL,College St / Huron St
+Roxborough St W / Yonge St,Roxborough St W / Yonge St,7328,43.678077,-79.390328,17,REGULAR,NULL,NULL,Roxborough St W / Yonge St
+Hocken Ave / Vaughan Rd,Hocken Ave / Vaughan Rd,7361,43.6817346,-79.4184725,19,REGULAR,NULL,NULL,Hocken Ave./Vaughan Rd.
+Sorauren Ave / Geoffrey St - SMART,Sorauren Ave / Geoffrey St - SMART,7238,43.649172,-79.4445087,16,SMARTMAPFRAME,NULL,NULL,Sorauren/Geoffrey (Sorauren Park) - SMART
+College Park South,College Park South,7077,43.659777,-79.382767,19,REGULAR,NULL,NULL,College Park South
+King St W / Jordan St,King St W / Jordan St,7417,43.648928,-79.378623,11,REGULAR,M5H 1C3,M5H,King St W / Jordan St
+Frederick St / The Esplanade,Frederick St / The Esplanade,7374,43.6487245,-79.36839,19,REGULAR,NULL,NULL,Frederick St / The Esplanade
+Toronto Eaton Centre (Yonge St),Toronto Eaton Centre (Yonge St),7269,43.655431,-79.380653,14,REGULAR,NULL,NULL,Toronto Eaton Centre (Yonge St)
+Simcoe St / Queen St W,Simcoe St / Queen St W,7022,43.65049,-79.3873,39,REGULAR,m5v1z5,m5v,Simcoe St / Queen St W
+St Clair Ave W / Bathurst St.,St Clair Ave W / Bathurst St.,7362,43.683296,-79.418734,19,REGULAR,NULL,NULL,St Clair Ave W / Bathurst St.
+Dundas St W / Edna Ave,Dundas St W / Edna Ave,7178,43.657192,-79.452559,15,REGULAR,NULL,NULL,Dundas St W / Edna Ave
+Wellesley St E / Parliament St,Wellesley St E / Parliament St,7724,43.6682342,-79.3702641,15,REGULAR,M4X 1G5,M4X,NULL
+Yonge St / Alexander St - SMART,Yonge St / Alexander St - SMART,7271,43.662862,-79.383572,18,SMARTMAPFRAME,NULL,NULL,Yonge St / Alexander St - SMART
+Baldwin Ave / Spadina Ave - SMART,Baldwin Ave / Spadina Ave - SMART,7248,43.654905,-79.398448,20,SMARTMAPFRAME,NULL,NULL,Baldwin Ave / Spadina Ave - SMART
+Isabella St / Church St,Isabella St / Church St,7409,43.66834,-79.38235,19,REGULAR,M4Y 1M9,M4Y,Isabella St / Church St
+Ward Ave / Wallace Ave,Ward Ave / Wallace Ave,7237,43.663337,-79.446444,15,REGULAR,m6h1v5,m6h,Ward Ave / Wallace Ave
+King St E / River St,King St E / River St,7104,43.65678478,-79.35627385,12,REGULAR,M5A 1M6,M5A,King St E / River St
+Bloor St E / Huntley St - SMART,Bloor St E / Huntley St - SMART,7264,43.671535,-79.379173,16,SMARTMAPFRAME,NULL,NULL,Bloor St E / Huntley St - SMART
+King St W / Crawford St,King St W / Crawford St,7412,43.6417852,-79.4131148,23,REGULAR,M6K 3M5,M6K,King St W / Crawford St
+Cumberland Ave / Bay St SMART,Cumberland Ave / Bay St SMART,7384,43.6704537,-79.39014,9,SMARTMAPFRAME,NULL,NULL,Cumberland Ave / Bay St SMART
+Union Station,Union Station,7033,43.645609,-79.380386,43,REGULAR,NULL,NULL,Union Station
+Little Norway Park,Little Norway Park,7411,43.635023,-79.399505,22,REGULAR,M5V 2Y9,M5V,Little Norway Park
+Coronation Park (Martin Goodman Trail),Coronation Park (Martin Goodman Trail),7707,43.635495,-79.4035221,19,REGULAR,M5V 3T7,M5V,NULL
+Dundas St E / Regent Park Blvd,Dundas St E / Regent Park Blvd,7100,43.660207,-79.361275,27,REGULAR,NULL,NULL,Dundas St E / Regent Park Blvd
+University Ave / College St (West),University Ave / College St (West),7062,43.659226,-79.390213,11,REGULAR,NULL,NULL,University Ave / College St (West)
+Church St / Alexander St,Church St / Alexander St,7044,43.663722,-79.380288,15,REGULAR,NULL,NULL,Church St / Alexander St
+1525 Dundas St W,1525 Dundas St W,7675,43.64957,-79.432446,15,REGULAR,M6K 1T6,M6K,1525 Dundas St
+King St W / Tecumseth St,King St W / Tecumseth St,7160,43.64333333,-79.40555556,19,REGULAR,NULL,NULL,King St W / Tecumseth St
+Widmer St / King St W,Widmer St / King St W,7721,43.6463574,-79.391206,11,REGULAR,M5V 1J9,M5V,NULL
+King / Cowan Ave - SMART,King / Cowan Ave - SMART,7233,43.637922,-79.431734,16,SMARTMAPFRAME,NULL,NULL,King / Cowan Ave - SMART
+College St / Borden St,College St / Borden St,7023,43.6571,-79.4056,11,REGULAR,NULL,NULL,College St / Borden St
+Front St E / Cherry St,Front St E / Cherry St,7108,43.652686,-79.358395,15,REGULAR,NULL,NULL,Front St E / Cherry St
+111 Bond St (North of Dundas St E)  - SMART,111 Bond St (North of Dundas St E)  - SMART,7268,43.656927,-79.378497,16,SMARTMAPFRAME,NULL,NULL,111 Bond St (North of Dundas St E)  - SMART
+Salem Ave / Bloor St W,Salem Ave / Bloor St W,7156,43.6608333,-79.43166667,15,REGULAR,NULL,NULL,Salem Ave / Bloor St W
+College Park - Gerrard Entrance,College Park - Gerrard Entrance,7389,43.658938,-79.383518,25,REGULAR,NULL,NULL,College Park- Gerrard Entrance
+Charles St E / Jarvis St - SMART,Charles St E / Jarvis St - SMART,7280,43.669604,-79.381171,20,SMARTMAPFRAME,NULL,NULL,Charles St E / Jarvis St - SMART
+Jarvis St / Isabella St,Jarvis St / Isabella St,7031,43.668991,-79.379385,23,REGULAR,NULL,NULL,Jarvis St / Isabella St
+Shaw St / Essex St - SMART,Shaw St / Essex St - SMART,7627,43.667076,-79.425116,15,SMARTMAPFRAME,M6G 3M4,M6G,Shaw St / Essex St - SMART
+Cherry St / Mill St,Cherry St / Mill St,7099,43.6513927,-79.3579466,15,REGULAR,M5A 4T3,M5A,Cherry St / Mill St
+Roncesvalles Ave / Fermanagh Ave,Roncesvalles Ave / Fermanagh Ave,7701,43.64631447,-79.44879407,19,REGULAR,M6R,M6R,NULL
+20 Charles St E,20 Charles St E,7385,43.6691099,-79.38551,22,ELECTRICBIKESTATION,NULL,NULL,20 Charles St E
+Garden Ave / Roncesvalles Ave,Garden Ave / Roncesvalles Ave,7230,43.643769,-79.447915,18,REGULAR,NULL,NULL,Garden Ave / Roncesvalles Ave
+Front St W / Bay St (South Side),Front St W / Bay St (South Side),7283,43.64595,-79.378761,19,REGULAR,NULL,NULL,Front St W / Bay St (South Side)
+King St E / Berkeley St,King St E / Berkeley St,7356,43.651885,-79.3649,17,REGULAR,NULL,NULL,King St E / Ontario St.
+Niagara St / Tecumseth St,Niagara St / Tecumseth St,7122,43.641389,-79.404444,15,REGULAR,NULL,NULL,Niagara St / Tecumseth St
+Yonge St / Wood St,Yonge St / Wood St,7163,43.6622222,-79.3825,15,REGULAR,NULL,NULL,Yonge St / Wood St
+Queens Quay W / Lower Simcoe St,Queens Quay W / Lower Simcoe St,7043,43.63951,-79.383717,19,REGULAR,NULL,NULL,Queens Quay W / Lower Simcoe St
+Jarvis St / Carlton St,Jarvis St / Carlton St,7055,43.66207,-79.37617,15,REGULAR,NULL,NULL,Jarvis St / Carlton St
+Ursula Franklin St / St. George St - SMART,Ursula Franklin St / St. George St - SMART,7250,43.660296,-79.397107,16,SMARTMAPFRAME,NULL,NULL,St. George St / Russell St - SMART
+Queen St W / Bay St (City Hall),Queen St W / Bay St (City Hall),7202,43.6517925,-79.3826951,23,REGULAR,M5H 2N2,M5H,Queen St W / York St (City Hall)
+Housey St / Dan Leckie Way,Housey St / Dan Leckie Way,7533,43.63811,-79.397877,27,REGULAR,M5V 3Y2,M5V,Housey St / Dan Leckie Way
+Pape Ave / Gamble Ave,Pape Ave / Gamble Ave,7348,43.690237,-79.350119,19,REGULAR,NULL,NULL,Pape Ave / Gamble Ave
+Woodbine Ave / Lake Shore Blvd E,Woodbine Ave / Lake Shore Blvd E,7428,43.665645,-79.304711,27,REGULAR,M4L 1B8,M4L,Woodbine Ave / Lake Shore Blvd E
+The Esplanade / Hahn Pl,The Esplanade / Hahn Pl,7551,43.649709,-79.364184,19,REGULAR,M5A 4J6,M5A,The Esplanade / Hahn Pl
+Lower Jarvis / Queens Quay E,Lower Jarvis / Queens Quay E,7399,43.64422,-79.36927,18,REGULAR,M5E 1Z2,M5E,Lower Jarvis / Queens Quay E
+Exhibition GO (Atlantic Ave),Exhibition GO (Atlantic Ave),7188,43.63666667,-79.41972222,23,REGULAR,NULL,NULL,Exhibition GO (Atlantic Ave)
+Fort York Blvd / Bathurst St SMART,Fort York Blvd / Bathurst St SMART,7366,43.639052,-79.399792,20,SMARTMAPFRAME,NULL,NULL,Fort York Blvd / Bathurst St SMART
+Mill St / Tannery Rd,Mill St / Tannery Rd,7106,43.652219,-79.354455,39,REGULAR,NULL,NULL,Mill St / Tannery Rd
+Gerrard St E / River St,Gerrard St E / River St,7120,43.663993,-79.358534,11,REGULAR,NULL,NULL,Gerrard St E / River St
+190 Queens Quay E,190 Queens Quay E,7291,43.6451308,-79.3653644,15,REGULAR,M5A 1B6,M5A,190 Queens Quay E
+Bay St / College St (West Side) - SMART,Bay St / College St (West Side) - SMART,7235,43.660087,-79.385655,12,SMARTMAPFRAME,NULL,NULL,Bay St / College St (West Side) - SMART
+Clarence Square,Clarence Square,7474,43.64407,-79.3929,23,REGULAR,M5V 1H1,M5V,Clarence Square
+York St / Queens Quay W,York St / Queens Quay W,7076,43.640132,-79.380464,56,REGULAR,NULL,NULL,York St / Queens Quay W
+Jarvis St / Richmond St E,Jarvis St / Richmond St E,7475,43.652777,-79.372637,19,REGULAR,M5C 2H6,M5C,Jarvis St / Richmond St E
+John St  / Mercer St - SMART,John St  / Mercer St - SMART,7253,43.6461,-79.3895,12,SMARTMAPFRAME,NULL,NULL,John St  / Mercer St - SMART
+Queens Quay E / Lower Sherbourne St,Queens Quay E / Lower Sherbourne St,7261,43.645215,-79.364898,27,REGULAR,M5A 3Y4,M5A,Queens Quay E / Lower Sherbourne St
+E Liberty St / Western Battery Rd,E Liberty St / Western Battery Rd,7322,43.6392777,-79.4115736,18,REGULAR,M6K 3P3,M6K,King St W / Brant St
+Davenport Rd / Christie St,Davenport Rd / Christie St,7138,43.675278,-79.423889,27,REGULAR,NULL,NULL,Davenport Rd / Christie St
+Bleecker St / St James Ave,Bleecker St / St James Ave,7452,43.669232,-79.374495,23,REGULAR,M4X 1M2,M4X,Bleecker St / St James Ave
+Dundas St W / St. Patrick St,Dundas St W / St. Patrick St,7257,43.6545174,-79.3895315,19,REGULAR,NULL,NULL,Dundas St W / St. Patrick St
+Victoria St / Queen St E,Victoria St / Queen St E,7406,43.652822,-79.378208,23,REGULAR,M5E 1L4,M5E,Victoria St / Queen St E
+Mortimer Ave / Carlaw Ave SMART,Mortimer Ave / Carlaw Ave SMART,7387,43.685167,-79.34962,12,SMARTMAPFRAME,NULL,NULL,Mortimer Ave / Carlaw Ave SMART
+Cosburn Ave / Donlands Ave,Cosburn Ave / Donlands Ave,7352,43.690537,-79.341307,19,REGULAR,NULL,NULL,Cosburn Ave / Donlands Ave
+Western Battery Rd / Pirandello St,Western Battery Rd / Pirandello St,7451,43.640075,-79.414156,31,REGULAR,M6K 3S4,M6K,Western Battery Rd / Pirandello St
+Spadina Ave / Fort York Blvd,Spadina Ave / Fort York Blvd,7073,43.640114,-79.393249,23,REGULAR,NULL,NULL,Spadina Ave / Fort York Blvd
+Kendal Ave / Spadina Rd,Kendal Ave / Spadina Rd,7132,43.670318,-79.405181,9,REGULAR,NULL,NULL,Kendal Ave / Spadina Rd
+Harbord St / Clinton St,Harbord St / Clinton St,7192,43.660414,-79.415646,15,REGULAR,NULL,NULL,Harbord St / Clinton St
+Lisgar Park,Lisgar Park,7524,43.6423847,-79.4240277,23,REGULAR,M6J 3X6,M6J,Lisgar Park
+Ross St / Cecil St - SMART,Ross St / Cecil St - SMART,7546,43.6568254,-79.3966159,18,SMARTLITMAPFRAME,M5T 1N3,M5T,Ross St / Cecil St - SMART
+Lansdowne Subway Station,Lansdowne Subway Station,7180,43.6587734,-79.443054,23,REGULAR,NULL,NULL,Lansdowne Subway Station
+Carlaw Ave / Danforth Ave,Carlaw Ave / Danforth Ave,7450,43.678285,-79.347346,15,REGULAR,M4K 1P7,M4K,Carlaw Ave / Danforth Ave
+Eastern Ave / Winnifred Ave,Eastern Ave / Winnifred Ave,7341,43.6592088,-79.3348396,14,REGULAR,NULL,NULL,Eastern Ave / Winnifred Ave
+Winona Dr / Davenport Rd,Winona Dr / Davenport Rd,7302,43.674923,-79.430465,11,REGULAR,NULL,NULL,Winona Dr / Davenport Rd
+Hanna Ave / Liberty St,Hanna Ave / Liberty St,7135,43.6384009,-79.4197107,17,REGULAR,M6K 1W8,M6K,Hanna Ave / Liberty St
+Simcoe St / Adelaide St W,Simcoe St / Adelaide St W,7382,43.6481303,-79.38632,20,REGULAR,NULL,NULL,Simcoe St / Adelaide St W
+D'Arcy St / Spadina Ave - SMART,D'Arcy St / Spadina Ave - SMART,7491,0,0,0,NULL,NULL,NULL,D'Arcy St / Spadina Ave - SMART
+Claremont St / Dundas St W,Claremont St / Dundas St W,7206,43.651281,-79.411717,13,REGULAR,NULL,NULL,Claremont St / Dundas St W
+Church St / The Esplanade,Church St / The Esplanade,7716,43.6469251,-79.3733192,19,REGULAR,M5E 1Z4,M5E,NULL
+Christie St / Benson Ave (Wychwood Barns),Christie St / Benson Ave (Wychwood Barns),7146,43.68,-79.425,19,REGULAR,NULL,NULL,Christie St / Benson Ave (Wychwood Barns)
+Robert St / Bloor St W - SMART,Robert St / Bloor St W - SMART,7252,43.665846,-79.404998,18,SMARTMAPFRAME,NULL,NULL,Robert St / Bloor St W - SMART
+Euclid Ave / Herrick St - SMART,Euclid Ave / Herrick St - SMART,7537,43.661559,-79.413845,16,SMARTMAPFRAME,M6G 2T4,M6G,Euclid Ave / Herrick St - SMART
+Niagara St / Richmond St W,Niagara St / Richmond St W,7046,43.64534,-79.409597,26,REGULAR,NULL,NULL,Niagara St / Richmond St W
+Wallace Ave / Pauline Ave,Wallace Ave / Pauline Ave,7522,43.6632257,-79.4397052,17,REGULAR,M6H 1T5,M6H,Wallace Ave / Pauline Ave
+541 Huron St - SMART,541 Huron St - SMART,7531,43.670206,-79.402643,19,SMARTMAPFRAME,M5R 2R6,M5R,541 Huron St - SMART
+Sherbourne St / Wellesley St E,Sherbourne St / Wellesley St E,7042,43.6673,-79.374,31,REGULAR,NULL,NULL,Sherbourne St / Wellesley St E
+Adelaide St W / Strachan Ave,Adelaide St W / Strachan Ave,7473,43.64325309,-79.4123047,15,REGULAR,M6J 2S7,M6J,Adelaide St W / Strachan Ave
+Cariboo St / Rail Path,Cariboo St / Rail Path,7173,43.66666667,-79.45833333,19,REGULAR,NULL,NULL,Cariboo St / Rail Path
+Essex St / Christie St - SMART,Essex St / Christie St - SMART,7151,43.6686111,-79.42027778,19,REGULAR,NULL,NULL,Essex St / Christie St - SMART
+80 Clinton St (North of College),80 Clinton St (North of College),7208,43.656296,-79.414663,15,REGULAR,NULL,NULL,80 Clinton St (North of College)
+Alton Ave / Dundas St E (Greenwood Park),Alton Ave / Dundas St E (Greenwood Park),7343,43.66745,-79.329408,23,REGULAR,NULL,NULL,Alton Ave / Dundas St E (Greenwood Park)
+Queen St E / George St (Moss Park),Queen St E / George St (Moss Park),7167,0,0,0,NULL,NULL,NULL,Queen St E / George St (Moss Park)
+Bloor St W / Shaw Ave - SMART,Bloor St W / Shaw Ave - SMART,7240,43.662403,-79.423098,34,SMARTMAPFRAME,NULL,NULL,Bloor St W / Shaw Ave - SMART
+Lynn Williams St / East Liberty St - SMART,Lynn Williams St / East Liberty St - SMART,7523,43.638925,-79.4168659,15,REGULAR,M6K 3N6,M6K,Lynn Williams St / East Liberty St - SMART
+Church St / Lombard St,Church St / Lombard St,7458,43.651678,-79.375233,17,REGULAR,M5C 3H9,M5C,Church St / Lombard St
+Westmoreland Ave / Fernbank Ave,Westmoreland Ave / Fernbank Ave,7296,43.665327,-79.43235,19,REGULAR,NULL,NULL,Westmoreland Ave / Fernbank Ave
+Donlands Subway Station,Donlands Subway Station,7091,43.681114,-79.3373885,15,REGULAR,M4J 1P3,M4J,Donlands Station
+Rosehill Ave / Avoca Ave - SMART,Rosehill Ave / Avoca Ave - SMART,7279,43.687999,-79.38906,16,SMARTMAPFRAME,NULL,NULL,Rosehill Ave / Avoca Ave - SMART
+Front St W / University Ave (2),Front St W / University Ave (2),7321,43.6452972,-79.3827914,19,REGULAR,NULL,NULL,Front St W / University Ave (2)
+Ulster St / Bathurst St,Ulster St / Bathurst St,7195,43.66,-79.40888889,11,REGULAR,NULL,NULL,Ulster St / Bathurst St
+Roehampton Ave / Mount Pleasant Rd,Roehampton Ave / Mount Pleasant Rd,7404,43.70942,-79.39139,19,REGULAR,M4P 1R6,M4P,Roehampton Ave / Mount Pleasant Rd
+Dundas St E / George St,Dundas St E / George St,7443,43.6574766,-79.373446,25,REGULAR,M6H 1N6,M6H,Dundas St E / George St
+Carlaw Ave / Strathcona Ave,Carlaw Ave / Strathcona Ave,7339,43.6753188,-79.3462789,15,REGULAR,NULL,NULL,Carlaw Ave / Strathcona Ave
+Carlaw Ave / Dundas St E,Carlaw Ave / Dundas St E,7570,43.665076,-79.341509,17,REGULAR,M4M 2T1,M4M,Carlaw Ave / Dundas St E
+Queen's Park Cres E / Grosvenor St - SMART,Queen's Park Cres E / Grosvenor St - SMART,7274,43.661803,-79.389682,12,SMARTMAPFRAME,NULL,NULL,Queen's Park Cres E / Grosvenor St - SMART
+High Park Blvd / Parkside Dr,High Park Blvd / Parkside Dr,7688,43.644887,-79.4564117,15,REGULAR,M6R NULLA1,M6R,NULL
+Howard St / Rose Ave,Howard St / Rose Ave,7410,43.671278,-79.372127,19,REGULAR,M4X 1J9,M4X,Howard St / Rose Ave
+Palmerston Ave / Vermont Ave,Palmerston Ave / Vermont Ave,7144,43.671389,-79.416389,15,REGULAR,NULL,NULL,Palmerston Ave / Vermont Ave
+Parliament St / Gerrard St,Parliament St / Gerrard St,7056,43.662132,-79.3656796,23,REGULAR,NULL,NULL,Parliament St / Gerrard St
+King St W / Douro St,King St W / Douro St,7111,43.640885,-79.416379,11,REGULAR,NULL,NULL,King St W / Douro St
+Keele St / Annette St,Keele St / Annette St,7414,43.66402,-79.46418,15,REGULAR,M6P 2K9,M6P,Keele St / Annette St
+Queen St. E / Rhodes Ave.,Queen St. E / Rhodes Ave.,7309,43.666224,-79.317693,23,REGULAR,NULL,NULL,Queen St. E / Rhodes Ave.
+Balliol St / Yonge St  SMART,Balliol St / Yonge St  SMART,7377,43.6978701,-79.39419,20,SMARTMAPFRAME,NULL,NULL,Balliol St / Yonge St  SMART
+Bay St / Charles St W - SMART,Bay St / Charles St W - SMART,7273,43.668153,-79.38891,20,SMARTMAPFRAME,NULL,NULL,Bay St / Charles St - SMART
+Ossington Ave / Bloor St W,Ossington Ave / Bloor St W,7152,43.661705,-79.425734,11,REGULAR,NULL,NULL,Ossington Ave / Bloor St W
+Yonge St / Montgomery Ave - SMART,Yonge St / Montgomery Ave - SMART,7671,43.7093201,-79.3996301,12,SMARTMAPFRAME,M4R NULLA1,M4R,Yonge St / Montgomery Ave - SMART
+Queen St W / Shaw St,Queen St W / Shaw St,7712,43.6442457,-79.4161044,19,REGULAR,M6J 2W2,M6J,NULL
+Logan Ave / Bain Ave,Logan Ave / Bain Ave,7338,43.6720273,-79.3470557,11,REGULAR,NULL,NULL,Logan Ave / Bain Ave
+Danforth Ave / Gough Ave,Danforth Ave / Gough Ave,7093,43.678401,-79.346289,17,REGULAR,NULL,NULL,Danforth Ave / Gough Ave
+Beverley St / College St,Beverley St / College St,7161,43.6575,-79.39527778,23,REGULAR,NULL,NULL,Beverley St / College St
+Annette St / Jane St,Annette St / Jane St,7561,43.658574,-79.487246,15,REGULAR,M6S 3Z5,M6S,Annette St / Jane St
+Queen St W / Roncesvalles Ave,Queen St W / Roncesvalles Ave,7228,43.6372958,-79.4423237,19,REGULAR,M6K 1J6,M6K,Queen St W / Roncesvalles Ave
+Navy Wharf Ct. / Bremner Blvd.,Navy Wharf Ct. / Bremner Blvd.,7054,43.640722,-79.391051,11,REGULAR,NULL,NULL,Navy Wharf Ct. / Bremner Blvd.
+Bellevue Square Park,Bellevue Square Park,7543,43.6537513,-79.4028245,17,REGULAR,M5T 1K8,M5T,Nassau St / Bellevue Ave
+Bay St / Bloor St W (West Side),Bay St / Bloor St W (West Side),7335,43.669244,-79.3894,19,REGULAR,M6H1a1,M6H,Bay St / Bloor St W (West Side)
+Yonge St / Dundonald St - SMART,Yonge St / Dundonald St - SMART,7272,43.665801,-79.384796,12,REGULAR,NULL,NULL,Yonge St / Dundonald St - SMART
+Fort York  Blvd / Capreol Ct,Fort York  Blvd / Capreol Ct,7000,43.639832,-79.395954,35,REGULAR,NULL,NULL,Fort York  Blvd / Capreol Ct
+Front St E / Bayview Avenue,Front St E / Bayview Avenue,7576,43.6535,-79.354068,22,REGULAR,M5A 1H7,M5A,Front St E / Bayview Avenue
+Oak St / Sackville St,Oak St / Sackville St,7703,43.6613642,-79.3641171,19,REGULAR,M5A 3S7,M5A,NULL
+Queen St W / Dovercourt Rd,Queen St W / Dovercourt Rd,7197,43.6438602,-79.4227573,11,REGULAR,M6J 3C4,M6J,Queen St W / Dovercourt Rd
+Concord Av / Dewson St,Concord Av / Dewson St,7360,43.656945,-79.424911,17,REGULAR,NULL,NULL,Concord Av / Dewson St
+Hayter St / Laplante Ave,Hayter St / Laplante Ave,7162,43.65916667,-79.38555556,23,REGULAR,NULL,NULL,Hayter St / Laplante Ave
+East Lynn Ave / Danforth Ave,East Lynn Ave / Danforth Ave,7644,43.6850809,-79.3149901,15,REGULAR,M4C 1J7,M4C,East Lynn Ave / Danforth Ave
+Augusta Ave / Dundas St W,Augusta Ave / Dundas St W,7032,43.652473,-79.401456,15,REGULAR,NULL,NULL,Augusta Ave / Dundas St W
+Davenport Rd / Bedford Rd,Davenport Rd / Bedford Rd,7130,43.674446,-79.398331,15,REGULAR,M5R 1J8,M5R,Davenport Rd / Bedford Rd
+University Ave / College St (East),University Ave / College St (East),7502,43.65995,-79.38964,14,REGULAR,M5G 1L7,M5G,University Ave / College St (East)
+Bridgeman Ave / Kendal Ave,Bridgeman Ave / Kendal Ave,7141,43.675556,-79.410278,15,REGULAR,NULL,NULL,Bridgeman Ave / Kendal Ave
+Front St W / Blue Jays Way,Front St W / Blue Jays Way,7059,43.643473,-79.390477,15,REGULAR,NULL,NULL,Front St W / Blue Jays Way
+Sterling Rd / Dundas St W,Sterling Rd / Dundas St W,7182,43.65083333,-79.44305556,19,REGULAR,NULL,NULL,Sterling Rd / Dundas St W
+Beltline Trail / Yonge St,Beltline Trail / Yonge St,7709,43.6962302,-79.3950434,23,REGULAR,M4S 3G4,M4S,NULL
+Mortimer Ave / Coxwell Ave,Mortimer Ave / Coxwell Ave,7194,43.690564,-79.326319,23,REGULAR,NULL,NULL,Mortimer Ave / Coxwell Ave
+Mallon Ave / Jones Ave -SMART,Mallon Ave / Jones Ave -SMART,7278,43.66587,-79.33443,16,SMARTMAPFRAME,M4M2Z1,M4M,Mallon Ave / Jones Ave -SMART
+424 Wellington St W,424 Wellington St W,7123,43.643834,-79.396649,15,REGULAR,NULL,NULL,424 Wellington St W
+Dundas St E / Broadview Ave,Dundas St E / Broadview Ave,7124,43.662365,-79.351104,19,REGULAR,NULL,NULL,Dundas St E / Broadview Ave
+McGill St / Church St,McGill St / Church St,7079,43.660694,-79.379052,19,REGULAR,NULL,NULL,McGill St / Church St
+Sumach St / Carlton St. (Riverdale Farm),Sumach St / Carlton St. (Riverdale Farm),7119,43.665867,-79.362506,15,REGULAR,NULL,NULL,Sumach St / Carlton St. (Riverdale Farm)
+Bloor St W / Gladstone Ave - SMART,Bloor St W / Gladstone Ave - SMART,7687,43.6602021,-79.4342726,11,SMARTMAPFRAME,M6H 1M8,M6H,NULL
+Sunnyside - Gus Ryder Pool,Sunnyside - Gus Ryder Pool,7222,43.637894,-79.454823,27,REGULAR,NULL,NULL,Sunnyside - Gus Ryder Pool
+Danforth Ave / Lamb Ave,Danforth Ave / Lamb Ave,7090,43.681991,-79.329455,19,REGULAR,NULL,NULL,Danforth Ave / Lamb Ave
+Thompson St / Broadview Ave - SMART,Thompson St / Broadview Ave - SMART,7236,43.659471,-79.350325,12,SMARTMAPFRAME,NULL,NULL,Thompson St / Broadview Ave - SMART
+Chorley Park - SMART,Chorley Park - SMART,7277,43.6856,-79.3718,20,SMARTMAPFRAME,NULL,NULL,Chorley Park - SMART
+Spadina Rd / St.Clair Ave West,Spadina Rd / St.Clair Ave West,7640,43.683979,-79.410657,15,REGULAR,M4V,M4V,Spadina Rd / St.Clair Ave West
+Queen St E / Rushbrooke Ave,Queen St E / Rushbrooke Ave,7258,43.6626628,-79.3323698,15,REGULAR,M4M 1L5,M4M,Queen St E / Rushbrooke Ave
+Blake St / Boultbee Ave,Blake St / Boultbee Ave,7340,43.672453,-79.338259,15,REGULAR,NULL,NULL,Blake St / Boultbee Ave
+Danforth Ave / Coxwell Ave,Danforth Ave / Coxwell Ave,7088,43.683378,-79.322961,15,REGULAR,NULL,NULL,Danforth Ave / Coxwell Ave
+Oak St / Sumach St,Oak St / Sumach St,7577,43.6617908,-79.361515,27,REGULAR,M5A 2H4,M5A,Oak St / Sumach St
+135 Queens Wharf  - SMART,135 Queens Wharf  - SMART,7639,43.6399714,-79.399404,16,SMARTMAPFRAME,M5V NULLE4,M5V,135 Queens Wharf  - SMART
+20 Eaton,20 Eaton,7689,43.680012,-79.3440325,26,ELECTRICBIKESTATION,M4J 1N9,M4J,NULL
+Danforth Ave / Ellerbeck St,Danforth Ave / Ellerbeck St,7095,43.677076,-79.35667,14,REGULAR,NULL,NULL,Danforth Ave / Ellerbeck St
+Bathurst St / Dundas St W,Bathurst St / Dundas St W,7037,43.6519501,-79.4060978,27,REGULAR,M5T 2S3,M5T,Bathurst St / Dundas St W
+Russell Hill Rd / St Clair Ave W,Russell Hill Rd / St Clair Ave W,7465,43.685569,-79.408019,19,REGULAR,M4V 1R8,M4V,Russell Hill Rd / St Clair Ave W
+Eglinton Ave W / Gilbert Ave,Eglinton Ave W / Gilbert Ave,7743,43.6926325,-79.4627536,19,VAULT,M6E 2L6,M6E,NULL
+Simcoe St / Wellington St W North,Simcoe St / Wellington St W North,7334,43.6462176,-79.3855048,15,REGULAR,NULL,NULL,Simcoe St / Wellington St North
+Simcoe St / Michael Sweet Ave,Simcoe St / Michael Sweet Ave,7039,43.65232722,-79.38825382,19,REGULAR,M5T3M3,M5T,Simcoe St / Michael Sweet Ave
+Nelson St / Duncan St,Nelson St / Duncan St,7102,43.648711,-79.389728,31,REGULAR,NULL,NULL,Nelson St / Duncan St
+St Clair Ave W / Oakwood Ave,St Clair Ave W / Oakwood Ave,7699,43.678177,-79.435364,15,REGULAR,M6H 2M1,M6H,NULL
+Front St W / University Ave (1),Front St W / University Ave (1),7320,43.6451635,-79.3831757,18,REGULAR,NULL,NULL,Front St W / University Ave (1)
+University Ave / Gerrard St W (East Side),University Ave / Gerrard St W (East Side),7047,43.657763,-79.389165,25,REGULAR,NULL,NULL,University Ave / Gerrard St W (East Side)
+Dundas St E / Parliament St,Dundas St E / Parliament St,7065,43.659575,-79.365769,15,REGULAR,NULL,NULL,Dundas St E / Parliament St
+Amelia St. / Sumach St.,Amelia St. / Sumach St.,7312,43.66852,-79.363525,11,REGULAR,NULL,NULL,Amelia St. / Sumach St.
+University Ave / Elm St,University Ave / Elm St,7004,43.656518,-79.389099,11,REGULAR,NULL,NULL,University Ave / Elm St
+Riverdale Park South (Broadview Ave),Riverdale Park South (Broadview Ave),7098,43.667819,-79.35347,15,REGULAR,NULL,NULL,Riverdale Park South (Broadview Ave)
+Wellington St W / Bay St,Wellington St W / Bay St,7052,43.647259,-79.379878,27,REGULAR,NULL,NULL,Wellington St W / Bay St
+Danforth Ave / Dewhurst Blvd,Danforth Ave / Dewhurst Blvd,7655,43.680207,-79.339243,15,REGULAR,M4J 1L9,M4J,Danforth Ave / Dewhurst Blvd
+King St W / Fraser Ave,King St W / Fraser Ave,7147,43.6394444,-79.42527778,15,REGULAR,NULL,NULL,King St W / Fraser Ave
+Mill St / Parliament St,Mill St / Parliament St,7299,43.650256,-79.36163,15,REGULAR,NULL,NULL,Mill St / Parliament St
+Sherbourne St N / Elm Ave,Sherbourne St N / Elm Ave,7530,43.6752732,-79.3778458,22,REGULAR,M4W 2T4,M4W,Sherbourne St N / Elm Ave
+640 Bloor Street E,640 Bloor Street E,7117,43.67468857,-79.36701962,19,REGULAR,M4W 1J3,M4W,640 Bloor Street E
+Spadina Ave / Blue Jays Way,Spadina Ave / Blue Jays Way,7416,43.641705,-79.393295,31,REGULAR,M5V NULLL7,M5V,Spadina Ave / Blue Jays Way
+Gerrard St E / Leslie St,Gerrard St E / Leslie St,7431,43.669813,-79.3335,23,REGULAR,M4M 2A1,M4M,Gerrard St E / Leslie St
+Jarvis St / Dundas St E,Jarvis St / Dundas St E,7121,43.657266,-79.374756,27,REGULAR,NULL,NULL,Jarvis St / Dundas St E
+800 Fleet Street,800 Fleet Street,7730,43.636804,-79.408832,42,ELECTRICBIKESTATION,M5V 1A9,M5V,NULL
+Via Italia / Mackay Ave,Via Italia / Mackay Ave,7434,43.676697,-79.445029,15,REGULAR,M6H 3S2,M6H,Via Italia / Mackay Ave
+Alma Ave / Gladstone Ave SMART,Alma Ave / Gladstone Ave SMART,7367,43.6448617,-79.42822,16,SMARTMAPFRAME,NULL,NULL,Alma Ave / Gladstone Ave SMART
+Queen St E / Sackville St,Queen St E / Sackville St,7105,43.6561111,-79.36138889,15,REGULAR,NULL,NULL,Queen St E / Sackville St
+Ontario St / Adelaide St E -SMART,Ontario St / Adelaide St E -SMART,7505,43.6535052,-79.3667689,18,SMARTMAPFRAME,M5A 2V1,M5A,Ontario St / Adelaide St E -SMART
+Sunnybrook Park,Sunnybrook Park,7609,43.720233,-79.362092,27,REGULAR,M3C 3L7,M3C,Sunnybrook Park
+Lower Spadina Ave / Lake Shore Blvd,Lower Spadina Ave / Lake Shore Blvd,7259,43.638497,-79.39192,19,REGULAR,NULL,NULL,Lower Spadina Ave / Lake Shore Blvd
+College St / Crawford St,College St / Crawford St,7204,43.655,-79.418889,19,REGULAR,NULL,NULL,College St / Crawford St
+Symington Ave / Davenport Rd,Symington Ave / Davenport Rd,7529,43.6704403,-79.4532855,15,REGULAR,M6N 1B9,M6N,Symington Ave / Davenport Rd
+Queens Quay W / Dan Leckie Way,Queens Quay W / Dan Leckie Way,7075,43.636533,-79.395854,27,REGULAR,NULL,NULL,Queens Quay W / Dan Leckie Way
+University Ave / King St W - SMART,University Ave / King St W - SMART,7284,43.6477785,-79.3847928,24,SMARTMAPFRAME,M5H 1J9,M5H,University Ave / King St W - SMART
+Pretoria Av / Broadview Av,Pretoria Av / Broadview Av,7351,43.6783213,-79.35822,19,REGULAR,NULL,NULL,Pretoria Av / Broadview Av
+909 Yonge St,909 Yonge St,7648,43.67515256,-79.38849616,14,REGULAR,M4W,M4W,909 Yonge St
+Queen St W / Gladstone Ave,Queen St W / Gladstone Ave,7193,43.64305556,-79.4275,23,REGULAR,NULL,NULL,Queen St W / Gladstone Ave
+Phoebe St / Spadina Ave,Phoebe St / Spadina Ave,7020,43.650033,-79.396555,33,REGULAR,NULL,NULL,Phoebe St / Spadina Ave
+Bremner Blvd / Rees St,Bremner Blvd / Rees St,7018,43.641529,-79.386741,23,REGULAR,NULL,NULL,Bremner Blvd / Rees St
+Logan Av / Gerrard St E,Logan Av / Gerrard St E,7346,43.6672144,-79.3452697,15,REGULAR,NULL,NULL,Logan Av / Gerrard St E
+Gould St / Mutual St,Gould St / Mutual St,7028,43.6582,-79.3768,31,REGULAR,NULL,NULL,Gould St / Mutual St
+Long Branch GO Station,Long Branch GO Station,7621,43.591561,-79.545827,33,REGULAR,M8W 1R3,M8W,Long Branch GO Station
+Merton St / Mount Pleasant Rd,Merton St / Mount Pleasant Rd,7424,43.697819,-79.38786,23,REGULAR,M4S 1A7,M4S,Merton St / Mount Pleasant Rd
+1926 Lake Shore Blvd W,1926 Lake Shore Blvd W,7752,43.6357643,-79.4674917,22,VAULT,M6S 1A1,M6S,NULL
+Felstead Ave/Gillard Ave (Monarch Park),Felstead Ave/Gillard Ave (Monarch Park),7706,43.6791345,-79.3263159,27,REGULAR,M4J 1G4,M4J,NULL
+Yonge St / Yorkville Ave,Yonge St / Yorkville Ave,7126,43.671944,-79.387778,17,REGULAR,NULL,NULL,Yonge St / Yorkville Ave
+1 Market St - SMART,1 Market St - SMART,7657,43.6469928,-79.3706665,19,ELECTRICBIKESTATION,M5E 1N1,M5E,1 Market St - SMART
+Eastwood Rd / Woodbine Ave - SMART,Eastwood Rd / Woodbine Ave - SMART,7487,43.676216,-79.309395,15,SMARTMAPFRAME,M4E 2H8,M4E,Eastwood Rd / Woodbine Ave - SMART
+Cherry St / Distillery Ln,Cherry St / Distillery Ln,7107,43.650279,-79.356832,15,REGULAR,NULL,NULL,Cherry St / Distillery Ln
+Bay St / Scollard St,Bay St / Scollard St,7127,43.672152,-79.39018,15,REGULAR,M5R NULLA1,M5R,Bay St / Scollard St
+25 Booth Ave,25 Booth Ave,7681,43.6544839,-79.341057,24,ELECTRICBIKESTATION,M4M 2M3,M4M,25 Booth Ave
+Bayview Ave / Lawren Harris Square,Bayview Ave / Lawren Harris Square,7575,43.6548521,-79.3539768,15,REGULAR,M5A 1H7,M5A,Bayview Ave / Lawren Harris Square
+Queen St W / Close Ave,Queen St W / Close Ave,7136,43.640634,-79.435841,23,REGULAR,NULL,NULL,Queen St W / Close Ave
+Dundas St W / Crawford St,Dundas St W / Crawford St,7207,43.649722,-79.416944,23,REGULAR,NULL,NULL,Dundas St W / Crawford St
+Lisgar St / Dundas St W - SMART,Lisgar St / Dundas St W - SMART,7368,43.6493472,-79.42668,8,SMARTMAPFRAME,NULL,NULL,Lisgar St / Dundas St SMART
+Davenport Rd / Dovercourt Rd - SMART,Davenport Rd / Dovercourt Rd - SMART,7327,43.6741219,-79.4352208,16,SMARTMAPFRAME,M6H 2H1,M6H,Davenport Rd / Oakwood Rd - SMART
+Davisville Ave / Pailton Cres,Davisville Ave / Pailton Cres,7539,43.69933,-79.39199,19,REGULARLITMAPFRAME,M4S 1E8,M4S,Davisville Ave / Pailton Cres
+Wellington St W / Stafford St,Wellington St W / Stafford St,7216,43.6409957,-79.4096663,23,REGULAR,M5V 1G8,M5V,Wellington St W / Stafford St
+Dufferin St / Bloor St,Dufferin St / Bloor St,7157,43.66083333,-79.43583333,22,REGULAR,NULL,NULL,Dufferin St / Bloor St
+Colgate Ave / Carlaw Ave,Colgate Ave / Carlaw Ave,7705,43.6623658,-79.3413344,19,REGULAR,M4M 3L1,M4M,NULL
+Chester Subway Station,Chester Subway Station,7094,43.6784834,-79.3513564,9,REGULAR,M4K 3A2,M4K,Chester Station
+Bond St / Queen St E,Bond St / Queen St E,7045,43.653236,-79.376716,25,REGULAR,NULL,NULL,Bond St / Queen St E
+Danforth Ave / Aldridge Ave,Danforth Ave / Aldridge Ave,7087,43.684758,-79.316767,11,REGULAR,NULL,NULL,Danforth Ave / Aldridge Ave
+Kingston Rd / Beech Ave,Kingston Rd / Beech Ave,7610,43.680095,-79.291714,15,REGULAR,M4E 1R9,M4E,Kingston Rd / Beech Ave
+Lower Sherbourne St / The Esplanade,Lower Sherbourne St / The Esplanade,7101,43.648655,-79.367061,27,REGULAR,NULL,NULL,Lower Sherbourne St / The Esplanade
+Bloor St W / Manning Ave - SMART,Bloor St W / Manning Ave - SMART,7239,43.663912,-79.416124,20,SMARTMAPFRAME,NULL,NULL,Bloor St W / Manning Ave - SMART
+101 Cedarvale Ave,101 Cedarvale Ave,7708,43.6868681,-79.3110942,20,ELECTRICBIKESTATION,M4C 4J7,M4C,NULL
+Eglinton Ave W / Henning Ave SMART,Eglinton Ave W / Henning Ave SMART,7371,43.7063473,-79.40161,20,SMARTMAPFRAME,NULL,NULL,Eglinton Ave W / Henning Ave SMART
+Kendal Ave / Bernard Ave,Kendal Ave / Bernard Ave,7143,43.671513,-79.408317,15,REGULAR,NULL,NULL,Kendal Ave / Bernard Ave
+Woodbine Subway Station,Woodbine Subway Station,7429,43.686442,-79.313404,15,SMARTMAPFRAME,M4C 4C1,M4C,Woodbine Subway Station
+Davenport Rd / Bathurst St,Davenport Rd / Bathurst St,7137,43.676667,-79.416111,27,REGULAR,NULL,NULL,Davenport Rd / Bathurst St
+Langford Ave / Danforth Ave - SMART,Langford Ave / Danforth Ave - SMART,7596,43.6800218,-79.3405681,16,SMARTMAPFRAME,M4J 1L7,M4J,Langford Ave / Danforth Ave - SMART
+Carlton St / Parliament St,Carlton St / Parliament St,7114,43.664524,-79.36793,27,REGULAR,NULL,NULL,Carlton St / Parliament St
+Antler St / Campbell Ave - SMART,Antler St / Campbell Ave - SMART,7477,43.664182,-79.449066,20,SMARTMAPFRAME,M6P 3V5,M6P,Antler St / Campbell Ave - SMART
+Yonge St / Dundas Sq,Yonge St / Dundas Sq,7391,43.655766,-79.3802,27,REGULAR,NULL,NULL,Yonge St / Dundas Sq
+Frobisher Ave / Lascelles Blvd,Frobisher Ave / Lascelles Blvd,7376,43.696708,-79.40045,19,REGULAR,NULL,NULL,Frobisher Ave / Lascelles Blvd
+Bay St / Queens Quay W (Ferry Terminal),Bay St / Queens Quay W (Ferry Terminal),7016,43.640978,-79.376785,23,REGULAR,M5J,M5J,Bay St / Queens Quay W (Ferry Terminal)
+Yarmouth Rd / Christie St,Yarmouth Rd / Christie St,7149,43.67,-79.42083333,11,REGULAR,NULL,NULL,Yarmouth Rd / Christie St
+Bay St / Albert St,Bay St / Albert St,7021,43.653264,-79.382458,35,REGULAR,NULL,NULL,Bay St / Albert St
+Seaton St / Dundas St E - SMART,Seaton St / Dundas St E - SMART,7109,43.658777,-79.369596,32,SMARTMAPFRAME,NULL,NULL,Seaton St / Dundas St E - SMART
+Lumsden Ave / Cedarvale Ave,Lumsden Ave / Cedarvale Ave,7715,43.693187,-79.314283,11,REGULAR,M4C 4K4,M4C,NULL
+Dupont St / Emerson Ave SMART,Dupont St / Emerson Ave SMART,7369,43.667266,-79.443946,16,SMARTMAPFRAME,NULL,NULL,Dupont St / Emerson Ave SMART
+Tecumseth St / Queen St W - SMART,Tecumseth St / Queen St W - SMART,7245,43.646552,-79.406468,9,SMARTMAPFRAME,NULL,NULL,Tecumseth St / Queen St W - SMART
+High Park Subway Station,High Park Subway Station,7221,43.6543604,-79.4655296,11,REGULAR,NULL,NULL,High Park Subway Station
+University Ave / Queen St W,University Ave / Queen St W,7407,43.65158,-79.38655,23,REGULAR,M5H 2N5,M5H,University Ave / Queen St W
+Broadview Subway Station,Broadview Subway Station,7388,43.6772,-79.35858,15,REGULAR,NULL,NULL,Broadview Ave / Danforth Ave
+The Royal Ontario Museum (Bloor St Entrance),The Royal Ontario Museum (Bloor St Entrance),7251,43.66850005,-79.3946236,19,REGULAR,M5S 2C7,M5S,The Royal Ontario Museum (Bloor St Entrance)
+Walnut Ave / Queen St W,Walnut Ave / Queen St W,7534,43.645469,-79.411084,16,REGULAR,M6J 1G4,M6J,Walnut Ave / Queen St W
+Roxton Rd / Harbord St,Roxton Rd / Harbord St,7196,43.65905,-79.422988,11,REGULAR,NULL,NULL,Roxton Rd / Harbord St
+439 Sherbourne St,439 Sherbourne St,7549,43.666051,-79.374161,47,REGULAR,M4X 1K6,M4X,439 Sherbourne St
+Yonge St / Orchard View Blvd,Yonge St / Orchard View Blvd,7381,43.7083577,-79.398862,35,REGULAR,M4P 2E6,M4P,Yonge St / Orchard View Blvd
+Spadina Ave / Willcocks St,Spadina Ave / Willcocks St,7170,43.6616667,-79.40138889,15,REGULAR,NULL,NULL,Spadina Ave / Willcocks St
+Woodbine Ave / O'Connor Dr,Woodbine Ave / O'Connor Dr,7602,43.699281,-79.318802,19,REGULAR,M4C 4G9,M4C,Woodbine Ave / O'Connor Dr
+Dundas St W / Watkinson Ave,Dundas St W / Watkinson Ave,7413,0,0,0,NULL,NULL,NULL,Dundas St W / Watkinson Ave
+Cosburn Ave / Cedarvale Ave,Cosburn Ave / Cedarvale Ave,7449,43.697139,-79.31469,15,REGULAR,M4C 4K7,M4C,Cosburn Ave / Cedarvale Ave
+Berkeley St / Adelaide St E - SMART,Berkeley St / Adelaide St E - SMART,7506,43.653359,-79.365023,11,SMARTMAPFRAME,M5A 2W7,M5A,Berkeley St / Adelaide St E - SMART
+Vaughan Rd /Wychwood Ave,Vaughan Rd /Wychwood Ave,7538,43.6882821,-79.4253856,19,REGULAR,M6C 2N5,M6C,Vaughan Rd /Wychwood Ave
+Palmerston Ave / Dundas St W,Palmerston Ave / Dundas St W,7536,43.651603,-79.408346,23,REGULAR,M6J 1V2,M6J,Palmerston Ave / Dundas St W
+King St W / York St,King St W / York St,7005,43.6480008,-79.383177,23,REGULAR,NULL,NULL,King St W / York St
+Havelock St / Dufferin Park,Havelock St / Dufferin Park,7297,43.657343,-79.43112,19,REGULAR,NULL,NULL,Havelock St / Dufferin Park
+Fleming Cres / Bayview Ave,Fleming Cres / Bayview Ave,7594,43.707045,-79.375437,15,REGULAR,M4G 3C1,M4G,Fleming Cres / Bayview Ave
+Barton St / Howland St - SMART,Barton St / Howland St - SMART,7420,43.66842,-79.410585,19,SMARTMAPFRAME,M5R 3B5,M5R,Barton St / Howland St - SMART
+Dundas St E / Pembroke St - SMART,Dundas St E / Pembroke St - SMART,7267,43.658295,-79.372346,16,SMARTMAPFRAME,NULL,NULL,Dundas St E / Pembroke St - SMART
+Queen St W / Cowan Ave,Queen St W / Cowan Ave,7198,43.6409,-79.432837,19,REGULAR,NULL,NULL,Queen St W / Cowan Ave
+Bay St / Bloor St W (East Side),Bay St / Bloor St W (East Side),7029,43.66943,-79.38915,15,REGULAR,M6G1X2,M6G,Bay St / Bloor St W (East Side)
+Yonge St / Davisville Ave,Yonge St / Davisville Ave,7378,43.6975969,-79.39654,15,REGULAR,NULL,NULL,Yonge St / Davisville Ave
+Broadview Ave / Westwood Ave,Broadview Ave / Westwood Ave,7350,43.6848652,-79.356602,23,REGULAR,NULL,NULL,Broadview Ave / Westwood Ave
+Niagara St / Portland St,Niagara St / Portland St,7717,43.6425791,-79.4001173,11,REGULAR,M5V 1C2,M5V,NULL
+25 York St – Union Station South,25 York St – Union Station South,7070,43.643667,-79.380414,11,REGULAR,NULL,NULL,25 York St – Union Station South
+1303 Yonge St - SMART,1303 Yonge St - SMART,7677,43.6846177,-79.3924592,16,SMARTMAPFRAME,M4T 2Y9,M4T,1303 Yonge St - SMART
+Fort York Blvd / Garrison Rd,Fort York Blvd / Garrison Rd,7211,43.637381,-79.406112,15,REGULAR,M5V 1B2,M5V,Fort York Blvd / Garrison Rd
+Weston Rd / St Clair Ave W - SMART,Weston Rd / St Clair Ave W - SMART,7566,43.673019,-79.467994,19,REGULAR,M6N 3P4,M6N,Weston Rd / St Clair Ave W - SMART
+Gerrard St E / Victoria Park Ave - SMART,Gerrard St E / Victoria Park Ave - SMART,7504,43.686962,-79.286864,16,SMARTMAPFRAME,M4E 3T6,M4E,Gerrard St E / Victoria Park Ave - SMART
+Simcoe St / Wellington St W South,Simcoe St / Wellington St W South,7057,43.6458569,-79.3853654,27,REGULAR,M6a1a1,M6a,Simcoe St / Wellington St South
+Lake Shore Blvd W / Thirty Ninth Street,Lake Shore Blvd W / Thirty Ninth Street,7552,43.5927419,-79.5403301,19,REGULAR,M8W 1P9,M8W,Lake Shore Blvd W / Thirty Ninth Street
+Howard Park Ave / Dundas St W - SMART,Howard Park Ave / Dundas St W - SMART,7247,43.6521,-79.4486,12,SMARTMAPFRAME,NULL,NULL,Howard Park Ave / Dundas St W - SMART
+Eastwood Rd / Coxwell Ave,Eastwood Rd / Coxwell Ave,7445,43.673118,-79.318651,19,REGULAR,M4L 3B5,M4L,Eastwood Rd / Coxwell Ave
+Gerrard St E / Malvern Ave - SMART,Gerrard St E / Malvern Ave - SMART,7503,43.685221,-79.294766,20,SMARTMAPFRAME,M4E 2E1,M4E,Gerrard St E / Malvern Ave - SMART
+Dundas St W / St Helen Ave - SMART,Dundas St W / St Helen Ave - SMART,7666,43.6504218,-79.4407647,26,SMARTMAPFRAME,M6K 1V6,M6K,Dundas St W / St Helen Ave - SMART
+161 Bleecker St (South of Wellesley),161 Bleecker St (South of Wellesley),7071,43.666233,-79.373327,23,REGULAR,NULL,NULL,161 Bleecker St (South of Wellesley)
+Sumach St  / Queen St E,Sumach St  / Queen St E,7489,43.656638,-79.358749,19,REGULAR,M5A 1V1,M5A,Sumach St  / Queen St E
+Simcoe St / Dundas St W - SMART,Simcoe St / Dundas St W - SMART,7668,43.6558557,-79.3894093,20,ELECTRICBIKESTATION,M5G 1W7,M5G,Simcoe St / Dundas St W - SMART
+Queen St E / Alton Av,Queen St E / Alton Av,7336,43.663912,-79.327987,19,REGULAR,NULL,NULL,Queen St E / Alton Av
+Queen St E / Woodward Ave,Queen St E / Woodward Ave,7303,43.665269,-79.319796,19,REGULAR,NULL,NULL,Queen St E / Woodward Ave
+Fleet St / Bathurst St,Fleet St / Bathurst St,7072,43.636611,-79.400042,23,REGULAR,M6G1X2,M6G,Fleet St / Bathurst St
+Davenport Rd / Avenue Rd,Davenport Rd / Avenue Rd,7129,43.674991,-79.396273,11,REGULAR,NULL,NULL,Davenport Rd / Avenue Rd
+Bloor St W / Dundas St W,Bloor St W / Dundas St W,7174,43.6563889,-79.45166667,15,REGULAR,NULL,NULL,Bloor St W / Dundas St W
+12 Harbour St,12 Harbour St,7383,43.6425636,-79.3762,15,REGULAR,NULL,NULL,12 Harbour St
+Bathurst Subway Station,Bathurst Subway Station,7154,43.6666667,-79.41166667,23,REGULAR,NULL,NULL,Bathurst Subway Station
+Jimmie Simpson Park (Queen St E),Jimmie Simpson Park (Queen St E),7103,43.6605603,-79.3437663,15,REGULAR,NULL,NULL,Jimmie Simpson Park (Queen St E)
+Clendenan Ave / Rowland St - SMART,Clendenan Ave / Rowland St - SMART,7444,43.66073,-79.47149,20,SMARTMAPFRAME,M6P 2X6,M6P,Clendenan Ave / Rowland St - SMART
+Crawford St / Queen St W,Crawford St / Queen St W,7329,43.645665,-79.415345,19,REGULAR,NULL,NULL,Crawford St / Queen St W
+Ossington Ave / College St,Ossington Ave / College St,7184,43.6544915,-79.422634,11,REGULAR,NULL,NULL,Ossington Ave / College St
+Orchard Park,Orchard Park,7446,43.66908,-79.3149,19,REGULAR,M4L 1M7,M4L,Orchard Park
+Ossington Ave / Harrison St,Ossington Ave / Harrison St,7209,43.65111111,-79.42138889,19,REGULAR,NULL,NULL,Ossington Ave / Harrison St
+Madison Ave / Bloor St W,Madison Ave / Bloor St W,7003,43.667158,-79.402761,15,REGULAR,NULL,NULL,Madison Ave / Bloor St W
+324 Cherry St,324 Cherry St,7492,43.6482995,-79.3552533,19,REGULAR,M5A 1B6,M5A,324 Cherry St
+Beltline Trail / Chaplin Cres.,Beltline Trail / Chaplin Cres.,7355,43.704461,-79.423122,15,REGULAR,NULL,NULL,Beltline Trail / Chaplin Cres.
+Waterfront Trail (Rouge Hill),Waterfront Trail (Rouge Hill),7616,43.778015,-79.131911,19,REGULAR,M1C 5G5,M1C,Waterfront Trail (Rouge Hill)
+Queen St E / Nursewood Rd,Queen St E / Nursewood Rd,7364,43.673831,-79.281455,18,REGULAR,NULL,NULL,Queen St E / Nursewood Rd (Neville Park Loop)
+Lower Jarvis / The Esplanade,Lower Jarvis / The Esplanade,7686,43.6478206,-79.3704721,15,REGULAR,M5E 1Z2,M5E,NULL
+Humberside Grounds - SMART,Humberside Grounds - SMART,7501,43.65917,-79.46997,20,SMARTMAPFRAME,M6P 3G4,M6P,Humberside Grounds - SMART
+Queens Quay / Yonge St,Queens Quay / Yonge St,7168,43.641646,-79.375308,31,REGULAR,NULL,NULL,Queens Quay / Yonge St
+Trent Ave / Danforth Ave,Trent Ave / Danforth Ave,7447,43.689293,-79.295895,23,REGULAR,M4C 1M2,M4C,Trent Ave / Danforth Ave
+George St / King St E,George St / King St E,7373,43.6509552,-79.3707,15,REGULAR,NULL,NULL,George St / King St E
+Queen St W  /  Fuller Ave - SMART,Queen St W  /  Fuller Ave - SMART,7232,43.640255,-79.439223,16,SMARTMAPFRAME,NULL,NULL,Queen St W  /  Fuller Ave - SMART
+Bay St / Harbour St (West),Bay St / Harbour St (West),7683,43.64191,-79.378325,15,REGULAR,M5J 1B7,M5J,NULL
+King St E / Jarvis St,King St E / Jarvis St,7009,43.650325,-79.372287,25,REGULAR,NULL,NULL,King St E / Jarvis St
+Berkeley St / Dundas St E - SMART,Berkeley St / Dundas St E - SMART,7508,43.658816,-79.367318,18,SMARTMAPFRAME,M5A 2A7,M5A,Berkeley St / Dundas St E - SMART
+Yonge St / Bloor St,Yonge St / Bloor St,7246,43.669969,-79.386532,14,REGULAR,NULL,NULL,Yonge St / Bloor St
+King St W / Bay St (East Side),King St W / Bay St (East Side),7118,43.648575,-79.380042,19,REGULAR,NULL,NULL,King St W / Bay St (East Side)
+Braemar Ave / Eglinton Ave W,Braemar Ave / Eglinton Ave W,7619,43.7041957,-79.4094472,14,REGULAR,A1a1a1,A1a,Braemar Ave / Eglinton Ave W
+Parkside Dr / Bloor St W - SMART,Parkside Dr / Bloor St W - SMART,7223,43.654501,-79.460053,12,SMARTMAPFRAME,NULL,NULL,Parkside Dr / Bloor St W - SMART
+Symington Ave / Dupont St,Symington Ave / Dupont St,7476,43.665538,-79.451263,15,REGULAR,M6P 3S3,M6P,Symington Ave / Dupont St
+457 King St W,457 King St W,7323,43.6452091,-79.3960744,19,REGULAR,NULL,NULL,457 King St. W. at Spadina
+Front St W / Yonge St (Hockey Hall of Fame),Front St W / Yonge St (Hockey Hall of Fame),7048,43.646144,-79.377962,47,REGULAR,NULL,NULL,Front St W / Yonge St (Hockey Hall of Fame)
+Amroth Ave / Danforth Ave,Amroth Ave / Danforth Ave,7659,43.6856128,-79.3116827,19,REGULAR,M4C 1K1,M4C,Amroth Ave / Danforth Ave
+Eglinton Ave E / Redpath Ave,Eglinton Ave E / Redpath Ave,7620,43.7078691,-79.39248,15,REGULAR,A1a1a1,A1a,Eglinton Ave E / Redpath Ave
+Glendonwynne Ave / Bloor St W,Glendonwynne Ave / Bloor St W,7466,43.65182,-79.47421,19,REGULAR,M6S 1N3,M6S,Glendonwynne Ave / Bloor St W
+Lawton Blvd / Yonge St,Lawton Blvd / Yonge St,7379,43.6910667,-79.39535,15,REGULAR,NULL,NULL,Lawton Blvd / Yonge St
+Danforth Ave / Barrington Ave,Danforth Ave / Barrington Ave,7083,43.688325,-79.300463,15,REGULAR,NULL,NULL,Danforth Ave / Barrington Ave
+Joseph J Piccininni Community Centre,Joseph J Piccininni Community Centre,7527,43.675648,-79.4527619,19,REGULAR,M6E 1C5,M6E,Joseph J Piccininni Community Centre
+Highfield Rd / Gerrard St E,Highfield Rd / Gerrard St E,7571,43.671771,-79.324961,19,REGULAR,M4L 1Y7,M4L,Highfield Rd / Gerrard St E
+Richmond St W / York St,Richmond St W / York St,7599,43.650745,-79.383633,17,REGULAR,M5H 3K6,M5H,Richmond St W / York St
+Dundas St E / Boulton Ave - SMART,Dundas St E / Boulton Ave - SMART,7433,43.663148,-79.347938,16,SMARTMAPFRAME,M4M 2J6,M4M,Dundas St E / Boulton Ave - SMART
+Queen St E / Hammersmith Ave,Queen St E / Hammersmith Ave,7315,43.671349,-79.29451,11,REGULAR,NULL,NULL,Queen St E / Hammersmith Ave
+Queen's Park Cres W / Hoskin Ave,Queen's Park Cres W / Hoskin Ave,7457,43.665221,-79.394009,23,REGULAR,M5S 1H7,M5S,Queen's Park Cres W / Hoskin Ave
+Queen St W / James St,Queen St W / James St,7275,43.652276,-79.380701,11,REGULAR,NULL,NULL,Queen St W / James St
+Sackville St / Eastern Ave - SMART,Sackville St / Eastern Ave - SMART,7493,43.653809,-79.3595,12,SMARTMAPFRAME,M5A 3E1,M5A,Sackville St / Eastern Ave - SMART
+Havelock St / Dewson St,Havelock St / Dewson St,7711,43.6554793,-79.4302462,15,REGULAR,M6H 3B3,M6H,NULL
+Adelaide St W / Brant St,Adelaide St W / Brant St,7463,43.6462574,-79.3973381,17,REGULAR,M5V 1S4,M5V,Adelaide St W / Brant St
+Lake Shore Blvd W / Windermere Ave,Lake Shore Blvd W / Windermere Ave,7225,43.634896,-79.467763,19,REGULAR,NULL,NULL,Lake Shore Blvd W / Windermere Ave
+Runnymede Rd / Annette St,Runnymede Rd / Annette St,7635,43.6596299,-79.4799176,15,REGULAR,M6S 2Z6,M6S,Runnymede Rd / Annette St
+Priscilla  Ave / Dundas St W,Priscilla  Ave / Dundas St W,7562,43.664665,-79.489385,23,REGULAR,M6S 2S1,M6S,Priscilla  Ave / Dundas St W
+Front St W / Bay St (North Side),Front St W / Bay St (North Side),7169,43.646162,-79.378912,11,REGULAR,NULL,NULL,Front St W / Bay St (North Side)
+Martin Goodman Trail / Remembrance Dr,Martin Goodman Trail / Remembrance Dr,7440,43.63121,-79.41414,27,REGULAR,12322,123,Martin Goodman Trail / Ontario Dr
+Judson St / Royal York Rd,Judson St / Royal York Rd,7637,43.6162721,-79.4990363,19,REGULAR,M8Z 1A6,M8Z,Judson St / Royal York
+Marlee Ave / York Beltline Trail,Marlee Ave / York Beltline Trail,7746,43.70163,-79.44099,19,VAULT,M6E 3B6,M6E,NULL
+Wright Ave / Sorauren Ave - SMART,Wright Ave / Sorauren Ave - SMART,7231,43.646677,-79.442741,18,SMARTMAPFRAME,NULL,NULL,Wright / Sorauren (Sorauren Park) - SMART
+Vaughan Rd / Oakwood Ave,Vaughan Rd / Oakwood Ave,7618,43.6926825,-79.441042,19,REGULAR,A1a1a1,A1a,Vaughan Rd / Oakwood Ave
+Dundas St W / Yonge St,Dundas St W / Yonge St,7038,43.656094,-79.381484,31,REGULAR,NULL,NULL,Dundas St W / Yonge St
+Emerson Ave / Bloor St W,Emerson Ave / Bloor St W,7521,43.659055,-79.440764,23,REGULAR,M6H 1N6,M6H,Emerson Ave / Bloor St W
+Gerrard St E / Broadview - SMART,Gerrard St E / Broadview - SMART,7286,43.665656,-79.352055,18,SMARTMAPFRAME,NULL,NULL,Gerrard St E / Broadview - SMART
+Church St / Dundas St E - SMART,Church St / Dundas St E - SMART,7270,43.657024,-79.377257,15,SMARTMAPFRAME,NULL,NULL,Church St / Dundas St E - SMART
+Southwood Dr / Kingston Rd - SMART,Southwood Dr / Kingston Rd - SMART,7483,43.678685,-79.297974,12,SMARTMAPFRAME,M4E 1R3,M4E,Southwood Dr / Kingston Rd - SMART
+Lansdowne Ave / Whytock Ave,Lansdowne Ave / Whytock Ave,7181,43.65388889,-79.44138889,15,REGULAR,NULL,NULL,Lansdowne Ave / Whytock Ave
+Fairmount Park,Fairmount Park,7607,43.6765897,-79.3163022,19,REGULAR,A1a1a1,A1a,Fairmount Park
+285 Victoria St,285 Victoria St,7660,43.656633,-79.379625,19,REGULAR,M5B 2L6,M5B,285 Victoria St
+Rosedale Park (20 Schofield Ave),Rosedale Park (20 Schofield Ave),7359,43.682645,-79.377557,23,REGULAR,NULL,NULL,Rosedale Park (20 Schofield Ave)
+Bay St / Harbour St (East),Bay St / Harbour St (East),7684,43.64215,-79.377,23,REGULAR,M5E,M5E,NULL
+St Clarens Ave / College St,St Clarens Ave / College St,7183,43.651238,-79.43868,15,REGULAR,NULL,NULL,St Clarens Ave / College St
+Sentinel Rd / Finch Hydro Corridor,Sentinel Rd / Finch Hydro Corridor,7585,43.7641485,-79.5012809,27,REGULAR,M3J 1V6,M3J,Sentinel Rd / Finch Hydro Corridor
+St Clair Ave W / Robina Ave,St Clair Ave W / Robina Ave,7700,43.68005,-79.43469,15,REGULAR,M6C1C6,M6C,NULL
+Randolph Ave / Perth Ave,Randolph Ave / Perth Ave,7728,43.6585504,-79.4497659,19,REGULAR,M6P 4G5,M6P,NULL
+Wallace Ave / Symington Ave - SMART,Wallace Ave / Symington Ave - SMART,7265,43.661324,-79.449534,12,SMARTMAPFRAME,NULL,NULL,Wallace Ave / Symington Ave - SMART
+Humber Bay Shores Park / Marine Parade Dr,Humber Bay Shores Park / Marine Parade Dr,7514,43.626265,-79.476723,31,REGULAR,1324,132,Humber Bay Shores Park / Marine Parade Dr
+Pacific Ave / Glenlake Ave,Pacific Ave / Glenlake Ave,7441,43.65716,-79.46478,27,REGULAR,12445,124,Pacific Ave / Glenlake Ave
+Yonge St / Macpherson Ave,Yonge St / Macpherson Ave,7725,43.6791876,-79.390719,15,REGULAR,M4W 2L8,M4W,NULL
+Kings Mill Park,Kings Mill Park,7658,43.64920407,-79.49336334,27,REGULAR,M8X 1A3,M8X,Kings Mill Park
+Superior Ave / Lake Shore Blvd W,Superior Ave / Lake Shore Blvd W,7516,43.6146692,-79.4873148,17,REGULAR,M8V 2M1,M8V,Superior Ave / Lake Shore Blvd W
+Gerrard Square Mall (1010 Gerrard St E),Gerrard Square Mall (1010 Gerrard St E),7337,43.668553,-79.338673,19,REGULAR,NULL,NULL,Gerrard Square Mall (1010 Gerrard St E)
+Christie St / Dupont St,Christie St / Dupont St,7691,43.67168,-79.421192,19,REGULAR,M6G 1Z4,M6G,NULL
+Yonge St / Woburn Ave - SMART,Yonge St / Woburn Ave - SMART,7670,43.7281464,-79.4032194,12,SMARTMAPFRAME,M4N 2L1,M4N,Yonge St / Woburn Ave - SMART
+Noble St / Queen St W,Noble St / Queen St W,7633,43.6424558,-79.4296346,15,REGULAR,M6K 1L3,M6K,Noble St / Queen St W
+Humber Bay Shores Park West,Humber Bay Shores Park West,7288,43.6224434,-79.480284,31,REGULAR,NULL,NULL,Humber Bay Shores Park West
+Neil McLellan Park,Neil McLellan Park,7480,43.65143,-79.47779,14,REGULAR,M6S 3B4,M6S,Neil McLellan Park
+Willcocks St / St. George St,Willcocks St / St. George St,7066,43.662085,-79.397735,17,REGULAR,NULL,NULL,Willcocks St / St. George St
+Tyndall Ave / King St W - SMART,Tyndall Ave / King St W - SMART,7422,43.638426,-79.429142,16,SMARTMAPFRAME,M6K 2E2,M6K,Tyndall Ave / King St W - SMART
+Bridgeman Ave / Bathurst St,Bridgeman Ave / Bathurst St,7142,43.674444,-79.414722,15,REGULAR,NULL,NULL,Bridgeman Ave / Bathurst St
+St Clair Ave W / Castleton Ave,St Clair Ave W / Castleton Ave,7563,43.668496,-79.485426,19,REGULAR,M6N 4Z5,M6N,St Clair Ave W / Castleton Ave
+Orde St / McCaul St,Orde St / McCaul St,7547,43.6580442,-79.3927404,15,REGULAR,M5T 1W6,M5T,Orde St / McCaul St
+Erskine Ave / Yonge St SMART,Erskine Ave / Yonge St SMART,7380,43.7112153,-79.39894,16,SMARTMAPFRAME,NULL,NULL,Erskine Ave / Yonge St SMART
+High Park Amphitheatre,High Park Amphitheatre,7461,43.645653,-79.464366,22,REGULAR,M6R 2Z3,M6R,High Park Amphitheatre
+Keele St / Vine Ave,Keele St / Vine Ave,7415,43.66686,-79.46526,23,REGULAR,M6P 3K2,M6P,Keele St / Vine Ave
+Cherry Beach,Cherry Beach,7344,43.637764,-79.345359,49,REGULAR,NULL,NULL,Cherry Beach
+Metro Hall Plaza,Metro Hall Plaza,7053,43.645859,-79.38783,27,REGULAR,NULL,NULL,Metro Hall Plaza
+200 Bloor St E,200 Bloor St E,7332,43.671561,-79.38117,23,REGULAR,NULL,NULL,200 Bloor St. E.
+Swansea Community Centre,Swansea Community Centre,7559,43.6438036,-79.4770327,15,REGULAR,M6S 4Z9,M6S,Swansea Community Centre
+Cosburn Ave / Durant Ave,Cosburn Ave / Durant Ave,7572,43.6935477,-79.3301658,15,REGULAR,M4J 3R7,M4J,Cosburn Ave / Durant Ave
+Queen St. E / Eastern Ave,Queen St. E / Eastern Ave,7314,43.667208,-79.312315,15,REGULAR,NULL,NULL,Queen St. E / Eastern Ave
+Queen St E / Pape Ave - SMART,Queen St E / Pape Ave - SMART,7287,43.661673,-79.337789,16,SMARTMAPFRAME,NULL,NULL,Queen St E / Pape Ave - SMART
+Oriole Pkwy / Kilbarry Rd,Oriole Pkwy / Kilbarry Rd,7643,43.6954486,-79.4026176,19,REGULAR,M5P 2G8,M5P,Oriole Pkwy / Kilbarry Rd
+Wellesley St / Queen's Park Cres,Wellesley St / Queen's Park Cres,7008,43.663376,-79.392125,19,REGULAR,NULL,NULL,Wellesley St / Queen's Park Cres
+The Pond Rd / Sentinel Rd,The Pond Rd / Sentinel Rd,7584,43.7696262,-79.5025943,27,REGULAR,M3J 2S5,M3J,The Pond Rd / Sentinel Rd
+Jameson Ave / Queen St W,Jameson Ave / Queen St W,7568,43.63985,-79.43703,27,REGULAR,M6K 1M3,M6K,Jameson Ave / Queen St W
+St Clair Ave W / Caledonia Rd,St Clair Ave W / Caledonia Rd,7698,43.6754247,-79.4547813,13,REGULAR,M6E 1C7,M6E,NULL
+Guildwood GO Station (South),Guildwood GO Station (South),7624,43.754978,-79.1971289,11,REGULAR,M1E 2M3,M1E,Guildwood GO Station (South)
+Dufferin St / Sylvan Av (Dufferin Grove Park),Dufferin St / Sylvan Av (Dufferin Grove Park),7150,43.6555556,-79.43361111,19,REGULAR,NULL,NULL,Dufferin St / Sylvan Av (Dufferin Grove Park)
+Marilyn Bell Park Tennis Court,Marilyn Bell Park Tennis Court,7430,43.633537,-79.437461,27,REGULAR,M6K 3C1,M6K,Marilyn Bell Park Tennis Court
+Ursula Franklin St / Huron St - SMART,Ursula Franklin St / Huron St - SMART,7600,43.660274,-79.398049,20,SMARTMAPFRAME,M5S 2S2,M5S,Russell St / Huron St - SMART
+Queen St E / Berkeley St,Queen St E / Berkeley St,7110,43.6552778,-79.36583333,15,REGULAR,NULL,NULL,Queen St E / Berkeley St
+Pottery Rd / Lower Don River Trail,Pottery Rd / Lower Don River Trail,7454,43.688148,-79.362101,15,REGULAR,M4K 2B9,M4K,Pottery Rd / Lower Don River Trail
+Sunnyside Ave / The Queensway - SMART,Sunnyside Ave / The Queensway - SMART,7496,43.6397,-79.44865,19,SMARTMAPFRAME,M6R 1B4,M6R,Sunnyside Ave / The Queensway - SMART
+Gamble Ave / Broadview Ave,Gamble Ave / Broadview Ave,7349,43.689211,-79.35438,23,REGULAR,NULL,NULL,Gamble Ave / Broadview Ave
+Rusholme Park Cres / College St,Rusholme Park Cres / College St,7205,43.65277778,-79.42972222,15,REGULAR,NULL,NULL,Rusholme Park Cres / College St
+Queen St. E / Spruce Hill Rd.,Queen St. E / Spruce Hill Rd.,7316,43.672571,-79.289,15,REGULAR,NULL,NULL,Queen St. E / Spruce Hill Rd.
+Livingston Rd / Guildwood Pkwy,Livingston Rd / Guildwood Pkwy,7612,43.747854,-79.199327,19,REGULAR,M1E 1P4,M1E,Livingston Rd / Guildwood Pkwy
+Humber Bay Shores Park East,Humber Bay Shores Park East,7289,43.6308933,-79.4722622,23,REGULAR,NULL,NULL,Humber Bay Shores Park East
+Fulton Ave / Pape Ave,Fulton Ave / Pape Ave,7353,43.68395,-79.347046,19,REGULAR,NULL,NULL,Fulton Ave / Pape Ave
+St Clair Ave W / Gunns Rd,St Clair Ave W / Gunns Rd,7565,43.672079,-79.470171,23,REGULAR,M6N 4X9,M6N,St Clair Ave W / Gunns Rd
+265 Armadale Ave,265 Armadale Ave,7729,43.6501644,-79.4829691,31,ELECTRICBIKESTATION,M6S 1P5,M6S,NULL
+Glebe Rd W / Yonge St,Glebe Rd W / Yonge St,7579,43.7005976,-79.397345,19,REGULAR,M4S 1Z7,M4S,Glebe Rd W / Yonge St
+Kilgour Rd / Rumsey Rd,Kilgour Rd / Rumsey Rd,7663,43.718039,-79.371914,17,REGULAR,M4G 2V9,M4G,Kilgour Rd / Rumsey Rd
+Bloor St W / Christie St,Bloor St W / Christie St,7153,43.6638889,-79.41888889,19,REGULAR,NULL,NULL,Bloor St W / Christie St
+Woodbine Subway Green P SMART,Woodbine Subway Green P SMART,7392,43.686829,-79.311073,20,SMARTMAPFRAME,24553,245,Woodbine Subway Green P SMART
+Yonge St / Aylmer Ave,Yonge St / Aylmer Ave,7128,43.675492,-79.388858,15,REGULAR,NULL,NULL,Yonge St / Aylmer Ave
+Bloor St W / Pacific Ave,Bloor St W / Pacific Ave,7654,43.6541245,-79.4636388,7,REGULAR,M6P 3K6,M6P,Bloor St W / Pacific Ave
+Exhibition GO Station,Exhibition GO Station,7243,43.6352007,-79.4187711,14,REGULAR,M6K 3C3,M6K,Exhibition GO Station
+St Clarens Ave / Shirley Ave,St Clarens Ave / Shirley Ave,7520,43.6486599,-79.4376413,15,REGULAR,M6K 1S9,M6K,St Clarens Ave / Shirley Ave
+St Clair Ave W / Winona Ave,St Clair Ave W / Winona Ave,7459,43.680466,-79.432522,11,REGULAR,M6C 1C2,M6C,St Clair Ave W / Winona Ave
+Mary McCormick Rec Centre (Sheridan Ave),Mary McCormick Rec Centre (Sheridan Ave),7210,43.6475,-79.43305556,15,REGULAR,NULL,NULL,Mary McCormick Rec Centre (Sheridan Ave)
+Morse St / Eastern Ave,Morse St / Eastern Ave,7342,43.657991,-79.340075,11,REGULAR,NULL,NULL,Morse St / Eastern Ave
+Lower Don River Trail and Taylor Creek Trail,Lower Don River Trail and Taylor Creek Trail,7096,43.7027268,-79.3336809,19,REGULAR,M4J,M4J,Lower Don River Trail and Taylor Creek Trail
+51 Parliament St,51 Parliament St,7064,43.65205,-79.362198,19,REGULAR,NULL,NULL,51 Parliament St
+Trinity St /Front St E,Trinity St /Front St E,7036,43.651318,-79.36023,19,REGULAR,NULL,NULL,Trinity St /Front St E
+High Park Ave / Dundas St W,High Park Ave / Dundas St W,7581,43.6653032,-79.4701178,15,REGULAR,M6P 2S8,M6P,High Park Ave / Dundas St W
+Macpherson Ave / Spadina Rd,Macpherson Ave / Spadina Rd,7140,43.675791,-79.40698,15,REGULAR,NULL,NULL,Macpherson Ave / Spadina Rd
+Polson Pier,Polson Pier,7400,43.641675,-79.354006,23,REGULAR,M5A 1A5,M5A,Polson Pier
+Davenport Rd / McAlpine St - SMART,Davenport Rd / McAlpine St - SMART,7494,43.673768,-79.391253,12,SMARTMAPFRAME,M5R 1H4,M5R,Davenport Rd / McAlpine St - SMART
+Alameda Ave / Vaughan Rd - SMART,Alameda Ave / Vaughan Rd - SMART,7582,43.690903,-79.4375028,16,SMARTMAPFRAME,M6C 2R1,M6C,Alameda Ave / Vaughan Rd - SMART
+Humber College,Humber College,7554,43.5961692,-79.5160575,27,REGULAR,M8V 4B6,M8V,Humber College
+University of Toronto Scarborough,University of Toronto Scarborough,7645,43.7842419,-79.1849889,16,REGULAR,M1C 1A5,M1C,University of Toronto Scarborough
+Twelfth St / Thirteenth St,Twelfth St / Thirteenth St,7630,43.6002896,-79.5108692,23,REGULAR,M8V 4E2,M8V,Twelfth St / Thirteenth St
+Wychwood Ave / Benson Ave - SMART,Wychwood Ave / Benson Ave - SMART,7262,43.6809164,-79.4229684,16,SMARTMAPFRAME,NULL,NULL,Wychwood Ave / Benson Ave - SMART
+Moore Park,Moore Park,7595,43.693256,-79.383238,14,REGULAR,M4T 2H3,M4T,Moore Park
+Royal York Rd / Lake Shore Blvd W,Royal York Rd / Lake Shore Blvd W,7623,43.6029904,-79.4926867,19,REGULAR,M8V 1W3,M8V,Royal York Rd / Lake Shore Blvd W
+Danforth Ave / Westlake Ave,Danforth Ave / Westlake Ave,7085,43.687323,-79.304848,15,REGULAR,NULL,NULL,Danforth Ave / Westlake Ave
+Beaty Ave / Queen St W,Beaty Ave / Queen St W,7662,43.6393107,-79.4408141,19,REGULAR,M6K 3B3,M6K,Beaty Ave / Queen St W
+Martin Goodman Trail (Marilyn Bell Park),Martin Goodman Trail (Marilyn Bell Park),7227,43.6314,-79.4304,31,REGULAR,NULL,NULL,Martin Goodman Trail (Marilyn Bell Park)
+Chiltern Hill Rd / Eglinton Ave W,Chiltern Hill Rd / Eglinton Ave W,7632,43.7004017,-79.4275305,17,REGULAR,M6C 2C1,M6C,Chiltern Hill Rd / Eglinton Ave W
+Coxwell Ave /  Lake Shore Blvd E,Coxwell Ave /  Lake Shore Blvd E,7313,43.662771,-79.315223,15,REGULAR,NULL,NULL,Coxwell Ave /  Lake Shore Blvd E
+Willingdon Blvd / Bloor St W (Green P),Willingdon Blvd / Bloor St W (Green P),7751,43.64839,-79.51008,15,VAULT,M8X 2H1,M8X,NULL
+St Clair West Subway Station - Heath Entrance,St Clair West Subway Station - Heath Entrance,7650,43.686352,-79.415894,22,REGULAR,M5P 3L6,M5P,St Clair W Subway - Heath Entrance
+Lake Shore Blvd W / The Boulevard Club,Lake Shore Blvd W / The Boulevard Club,7226,43.636731,-79.444966,19,REGULAR,NULL,NULL,Lake Shore Blvd W / The Boulevard Club
+Lake Shore Blvd E / Leslie St,Lake Shore Blvd E / Leslie St,7357,43.659195,-79.329196,19,REGULAR,NULL,NULL,Lake Shore Blvd E / Leslie St
+The Queensway / High St,The Queensway / High St,7557,43.630874,-79.482407,23,REGULAR,M8Y 1H6,M8Y,The Queensway / High St
+Lake Shore Blvd W / Colborne Lodge Dr,Lake Shore Blvd W / Colborne Lodge Dr,7518,43.63771,-79.458173,27,REGULAR,M6S 5A3,M6S,Lake Shore Blvd W / Colborne Lodge Dr
+Sunnybrook Health Centre - S Wing,Sunnybrook Health Centre - S Wing,7665,43.720998,-79.377456,11,REGULAR,M4N 3M5,M4N,Sunnybrook Health Centre - S Wing
+Strachan Ave / Princes' Blvd,Strachan Ave / Princes' Blvd,7172,43.635,-79.40888889,19,REGULAR,NULL,NULL,Strachan Ave / Princes' Blvd
+Lake Shore Blvd W / Ontario Dr,Lake Shore Blvd W / Ontario Dr,7242,43.630254,-79.420317,35,REGULAR,NULL,NULL,Lake Shore Blvd W / Ontario Dr
+Wells Hill Ave / St Clair Ave W,Wells Hill Ave / St Clair Ave W,7363,43.683351,-79.41562,15,REGULAR,NULL,NULL,Wells Hill Ave / St Clair Ave W
+Bloor St W / High Park Ave (High Park),Bloor St W / High Park Ave (High Park),7224,43.6535269,-79.4650569,23,REGULAR,NULL,NULL,Bloor St W / High Park Ave (High Park)
+HTO Park (Queens Quay W),HTO Park (Queens Quay W),7175,43.63796,-79.387502,27,REGULAR,NULL,NULL,HTO Park (Queens Quay W)
+The Well,The Well,7757,43.64302506,-79.39430138,18,ELECTRICBIKESTATION,M5V 2H6,M5V,NULL
+Front St W / Simcoe St,Front St W / Simcoe St,7468,43.6442,-79.38702,18,REGULAR,M5V 2W6,M5V,Front St / Simcoe St
+Beverley  St / Dundas St W,Beverley  St / Dundas St W,7027,43.652823,-79.393388,31,REGULAR,NULL,NULL,Beverley  St / Dundas St W
+Alvin Ave / St Clair Ave E,Alvin Ave / St Clair Ave E,7540,43.68871,-79.39264,19,REGULAR,M4T 1M9,M4T,Alvin Ave / St Clair Ave E
+Glen Edyth Dr / Davenport Rd,Glen Edyth Dr / Davenport Rd,7139,43.677778,-79.405556,15,REGULAR,NULL,NULL,Glen Edyth Dr / Davenport Rd
+128 Sterling Rd - SMART,128 Sterling Rd - SMART,7497,43.654004,-79.444792,20,SMARTMAPFRAME,M6P NULLA1,M6P,128 Sterling Ave - SMART
+The Queensway at South Kingsway,The Queensway at South Kingsway,7425,43.63632,-79.47307,23,REGULAR,M6S 5B7,M6S,The Queensway at South Kingsway
+High Park Subway Station - Quebec Entrance,High Park Subway Station - Quebec Entrance,7438,43.65389,-79.4675,19,REGULAR,M6P 2V9,M6P,High Park Subway
+Eglinton Ave W / Ennerdale Rd,Eglinton Ave W / Ennerdale Rd,7747,43.69466,-79.45377,14,VAULT,M6E 4E2,M6E,NULL
+Windsor St / Newcastle St,Windsor St / Newcastle St,7556,43.6171635,-79.4971065,31,REGULAR,M8Y NULLA6,M8Y,Windsor St / Newcastle St
+111 Broadview Ave,111 Broadview Ave,7702,43.6593483,-79.3499366,18,ELECTRICBIKESTATION,M4M 1H1,M4M,NULL
+7697,7697,7697,0,0,0,NULL,NULL,NULL,NULL
+Summerhill Ave / Maclennan Ave,Summerhill Ave / Maclennan Ave,7488,43.685924,-79.376304,11,REGULAR,M4M 2Z9,M4M,Summerhill Ave / Maclennan Ave
+Blythwood Rd / Yonge St - SMART,Blythwood Rd / Yonge St - SMART,7485,43.716652,-79.399993,14,SMARTMAPFRAME,M4P 2J6,M4P,Blythwood Rd / Yonge St - SMART
+Dentonia Park,Dentonia Park,7395,43.694341,-79.291416,23,REGULAR,J4G 29,J4G,Dentonia Park
+Roncesvalles Ave / Marmaduke St,Roncesvalles Ave / Marmaduke St,7234,43.650492,-79.450842,19,REGULAR,NULL,NULL,Roncesvalles Ave / Marmaduke St
+Liberty St / Fraser Ave Green P,Liberty St / Fraser Ave Green P,7112,43.637981,-79.424146,19,REGULAR,NULL,NULL,Liberty St / Fraser Ave Green P
+Dufferin St / Finch Hydro Recreational Trail,Dufferin St / Finch Hydro Recreational Trail,7587,43.7724019,-79.4675395,19,REGULAR,M3H 5T3,M3H,Dufferin St / Finch Hydro Recreational Trail
+Finch West Subway Station,Finch West Subway Station,7586,43.76521,-79.491281,23,REGULAR,M3J 2W1,M3J,Finch West Subway Station
+Lonsdale Rd / Spadina Rd,Lonsdale Rd / Spadina Rd,7442,43.688526,-79.412903,15,REGULAR,M5T 2G7,M5T,Lonsdale Rd / Spadina Rd
+Grand Avenue Park,Grand Avenue Park,7760,43.62313,-79.4918,22,VAULT,M8Y NULLA7,M8Y,NULL
+Esther Shiner Stadium,Esther Shiner Stadium,7590,43.7774374,-79.4447096,23,REGULAR,M2R 1Y6,M2R,Esther Shiner Stadium
+Victoria Park Ave / Danforth Ave,Victoria Park Ave / Danforth Ave,7611,43.691468,-79.288619,18,REGULAR,M4C 1N2,M4C,Victoria Park Ave / Danforth Ave
+Victoria Park Subway Station - SMART,Victoria Park Subway Station - SMART,7266,43.6940155,-79.2889842,20,SMARTMAPFRAME,NULL,NULL,Victoria Park Subway Station - SMART
+Spadina Rd / Austin Terrace,Spadina Rd / Austin Terrace,7528,43.67883,-79.408723,17,REGULAR,M5R 2V5,M5R,Spadina Rd / Austin Terrace
+Annette St / Dundas St W,Annette St / Dundas St W,7641,43.6641174,-79.4588522,15,REGULAR,M6P 1X9,M6P,Annette St / Dundas W
+Lake Shore Blvd W / Twenty Fourth St,Lake Shore Blvd W / Twenty Fourth St,7553,43.597082,-79.522768,19,REGULAR,M8V 1M1,M8V,Lake Shore Blvd W / Twenty Fourth St
+Regal Rd / Dufferin St,Regal Rd / Dufferin St,7347,43.673939,-79.441159,15,REGULAR,NULL,NULL,Regal Rd / Dufferin St
+Bloor St W / Brock Ave,Bloor St W / Brock Ave,7656,43.6589882,-79.438715,11,REGULAR,M6H 1M9,M6H,Bloor St W / Brock Ave
+85 Lee Ave,85 Lee Ave,7692,43.6700692,-79.2971326,26,ELECTRICBIKESTATION,M4E 2P1,M4E,NULL
+Hubbard Blvd / Balsam Av,Hubbard Blvd / Balsam Av,7317,43.669328,-79.288949,19,REGULAR,NULL,NULL,Hubbard Blvd / Balsam Av
+Bloor St W / Old Mill Trl,Bloor St W / Old Mill Trl,7748,43.6501687,-79.4963345,19,VAULT,M8X 1A5,M8X,NULL
+Rushton Rd / St Clair Ave W,Rushton Rd / St Clair Ave W,7435,43.68114,-79.4277,10,REGULAR,M6G 3J4,M6G,Rushton Rd / St Clair Ave W
+Victoria Park Ave / Dawes Rd,Victoria Park Ave / Dawes Rd,7694,43.706466,-79.29511,19,REGULAR,M4B 2K3,M4B,NULL
+Dovercourt Rd / Harrison St (Green P) - SMART,Dovercourt Rd / Harrison St (Green P) - SMART,7249,43.651145,-79.423742,12,SMARTMAPFRAME,NULL,NULL,Dovercourt Rd / Harrison St (Green P) - SMART
+Davenport Rd / Lansdowne Ave,Davenport Rd / Lansdowne Ave,7326,43.671526,-79.44874,19,REGULAR,NULL,NULL,Davenport Rd / Lansdowne Ave
+Roehampton St / Bayview Ave,Roehampton St / Bayview Ave,7593,43.711751,-79.378615,31,REGULAR,M4P 1S7,M4P,Roehampton St / Bayview Ave
+Coxwell Ave / Plains Rd,Coxwell Ave / Plains Rd,7331,43.69595,-79.328535,19,REGULAR,NULL,NULL,Coxwell Ave / Plains Rd
+Teddington Park Ave,Teddington Park Ave,7598,43.732975,-79.40401,15,REGULAR,M4N 2M8,M4N,Teddington Park Ave
+Highview Ave / Kennedy Rd,Highview Ave / Kennedy Rd,7738,43.70241858,-79.25631671,15,VAULT,M1N,M1N,NULL
+Dufferin Gate - SMART,Dufferin Gate - SMART,7244,43.633473,-79.425679,16,SMARTMAPFRAME,NULL,NULL,Dufferin Gate - SMART
+Queen St E / Joseph Duggan Rd,Queen St E / Joseph Duggan Rd,7695,43.6677628,-79.3081171,19,REGULAR,M4L 3Y2,M4L,NULL
+Kingston Rd / Ridgemoor Ave,Kingston Rd / Ridgemoor Ave,7739,43.70643614,-79.25104443,11,VAULT,M1N 1V1,M1N,NULL
+Jane St / Bloor St W (Jane Subway Station),Jane St / Bloor St W (Jane Subway Station),7479,43.64976,-79.48477,15,REGULAR,M6S 3Y2,M6S,Jane St / Bloor St W (Jane Subway Station)
+Lascelles Blvd / Eglinton Ave W,Lascelles Blvd / Eglinton Ave W,7403,43.70547,-79.40355,19,REGULAR,M4R 1A6,M4R,Lascelles Blvd / Eglinton Ave W
+York University Station (North),York University Station (North),7679,43.7741,-79.5005,15,REGULAR,M3J,M3J,York University Station (North)
+Dundas St W / Roncesvalles Green P - SMART,Dundas St W / Roncesvalles Green P - SMART,7229,43.6534268,-79.4512787,12,SMARTMAPFRAME,NULL,NULL,Dundas St W / Roncesvalles Green P - SMART
+Amos Waites Park,Amos Waites Park,7515,43.613606,-79.4883535,27,REGULAR,M8V 1C5,M8V,Amos Waites Park
+Kingston Rd / Warden Ave,Kingston Rd / Warden Ave,7732,43.68824136,-79.27046628,14,VAULT,M1N 1R5,M1N,NULL
+Tommy Thompson Park (Leslie Street Spit),Tommy Thompson Park (Leslie Street Spit),7354,43.64583558,-79.32088911,15,REGULAR,M8Z4T4,M8Z,Tommy Thompson Park (Leslie Street Spit)
+24 Mountjoy Ave,24 Mountjoy Ave,7704,43.6808774,-79.3304491,19,REGULAR,M4J 1J6,M4J,NULL
+Northern Dancer Blvd / Lake Shore Blvd E,Northern Dancer Blvd / Lake Shore Blvd E,7427,43.663162,-79.309765,27,REGULAR,M4L 6T1,M4L,Northern Dancer Blvd / Lake Shore Blvd E
+Kew Beach Ave / Kenilworth Ave,Kew Beach Ave / Kenilworth Ave,7365,43.666325,-79.3014,23,REGULAR,NULL,NULL,Kew Beach Ave / Kenilworth Ave
+Bellwoods Ave / Treford Pl - SMART,Bellwoods Ave / Treford Pl - SMART,7541,43.65246,-79.413528,20,SMARTMAPFRAME,M6J 2R3,M6J,Bellwoods Ave / Treford Pl - SMART
+Ellis Ave / The Queensway,Ellis Ave / The Queensway,7478,43.63855,-79.46693,19,REGULAR,M6S 2X1,M6S,Ellis Ave / The Queensway
+Florence Gell Park,Florence Gell Park,7631,43.6615467,-79.498398,15,REGULAR,M6S 4Z4,M6S,Florence Gell Park
+Sunnybrook Health Centre - L Wing,Sunnybrook Health Centre - L Wing,7664,43.72268,-79.37644,15,REGULAR,M4N 1J7,M4N,Sunnybrook Health Centre - L Wing
+36 Park Lawn Rd,36 Park Lawn Rd,7753,43.6236917,-79.4838132,15,VAULT,M8V NULLE5,M8V,NULL
+Summerhill Subway Station,Summerhill Subway Station,7133,43.681944,-79.390556,11,REGULAR,NULL,NULL,Summerhill Station
+E.T. Seton Park (Eglinton Ave E / Leslie St),E.T. Seton Park (Eglinton Ave E / Leslie St),7455,43.715951,-79.351246,27,REGULAR,M4P 1A2,M4P,E.T. Seton Park (Eglinton Ave E / Leslie St)
+Victoria Park Ave / Kingston Rd,Victoria Park Ave / Kingston Rd,7731,43.68035,-79.28357,15,VAULT,M4E 3S8,M4E,NULL
+Lundy Ave / Etienne Brule Park,Lundy Ave / Etienne Brule Park,7629,43.6625395,-79.5030161,15,REGULAR,M6S 2R5,M6S,Lundy Ave / Etienne Brule Park
+High Park - West Rd,High Park - West Rd,7086,43.6525077,-79.4654233,23,REGULAR,1324,132,High Park - West Rd
+Yonge St / Golfdale Rd,Yonge St / Golfdale Rd,7597,43.732016,-79.403637,15,REGULAR,M4N 2M6,M4N,Yonge St / Golfdale Rd
+Brick Works,Brick Works,7601,43.683884,-79.36647,25,REGULAR,M4W,M4W,Brick Works
+Bert Robinson Park,Bert Robinson Park,7745,43.688028,-79.460265,15,VAULT,M6E 4T8,M6E,NULL
+York University Station (South) - SMART,York University Station (South) - SMART,7678,43.77345,-79.5002,16,SMARTMAPFRAME,M3J,M3J,York University Station (South) - SMART
+Sharpe St / Park St (Sandown Park),Sharpe St / Park St (Sandown Park),7740,43.7105975,-79.2541175,15,VAULT,M1N,M1N,NULL
+406 Oakwood Ave,406 Oakwood Ave,7519,43.6882706,-79.43937767,19,REGULAR,L5C 1E4,L5C,406 Oakwood Ave
+Hubbard Blvd. / Glen Manor Dr.,Hubbard Blvd. / Glen Manor Dr.,7318,43.668633,-79.291162,15,REGULAR,NULL,NULL,Hubbard Blvd. / Glen Manor Dr.
+Luttrell Ave / Danforth Ave,Luttrell Ave / Danforth Ave,7750,43.6897656,-79.2939525,15,REGULAR,M4C 1M3,M4C,NULL
+Primrose Ave / Davenport Rd,Primrose Ave / Davenport Rd,7301,43.67142,-79.445947,15,REGULAR,NULL,NULL,Primrose Ave / Davenport Rd
+High Park - Grenadier Cafe,High Park - Grenadier Cafe,7084,43.645599,-79.4657123,11,REGULAR,NULL,NULL,High Park - Grenadier Cafe
+Howard Park Ave / Parkside Dr,Howard Park Ave / Parkside Dr,7741,43.648657,-79.458111,15,REGULAR,M6R 1S7,M6R,NULL
+Dawes Rd / Taylor Creek Trl,Dawes Rd / Taylor Creek Trl,7606,43.696631,-79.297436,19,REGULAR,M4C 5L3,M4C,Dawes Rd / Taylor Creek Trl
+O'Connor Dr / Curity Ave - SMART,O'Connor Dr / Curity Ave - SMART,7603,43.707582,-79.311439,24,SMARTMAPFRAME,M4B 3L6,M4B,O'Connor Dr / Curity Ave - SMART
+Driftwood Ave / Finch Hydro Trail,Driftwood Ave / Finch Hydro Trail,7758,43.7603624,-79.5162777,18,VAULT,M3N 2N4,M3N,NULL
+Lumsden Ave / Eastdale Ave,Lumsden Ave / Eastdale Ave,7605,43.69413548,-79.30058719,20,REGULAR,M4C 4Z9,M4C,Lumsden Ave / Eastdale Ave
+Royal York Rd / Mimico Ave,Royal York Rd / Mimico Ave,7555,43.612063,-79.496573,20,REGULAR,M8V 1R6,M8V,Royal York Rd / Mimico Ave
+Eglinton Ave W / Scarlett Rd,Eglinton Ave W / Scarlett Rd,7583,43.6834703,-79.5108942,22,REGULAR,M9A,M9A,Eglinton Ave W / Scarlett Rd
+Pape Subway Station (Green P),Pape Subway Station (Green P),7092,43.680223,-79.344062,15,REGULAR,NULL,NULL,Pape Subway Green P
+Lake Shore Blvd W / Ellis Ave,Lake Shore Blvd W / Ellis Ave,7220,43.635932,-79.465083,19,REGULAR,NULL,NULL,Lake Shore Blvd W / Ellis Ave
+Lake Shore Blvd W / Louisa St,Lake Shore Blvd W / Louisa St,7471,43.61868,-79.48674,15,REGULAR,M8V 1B4,M8V,Lake Shore Blvd W / Louisa St
+Heyworth Cres / Kingston Rd,Heyworth Cres / Kingston Rd,7696,43.6750806,-79.3068697,19,REGULAR,M4L 1T7,M4L,NULL
+Bloor St W / Riverside Dr,Bloor St W / Riverside Dr,7636,43.647663,-79.487583,23,REGULAR,M6S 5A6,M6S,Bloor St W / Riverside Ave
+Yonge St / Lawrence Ave,Yonge St / Lawrence Ave,7625,43.7254665,-79.4011545,23,REGULAR,M4N 1S1,M4N,Yonge St / Lawrence Ave
+St Columba Pl / St Clair Ave E,St Columba Pl / St Clair Ave E,7604,43.70567,-79.310554,18,REGULAR,M4B 1M8,M4B,St Columba Pl / St Clair Ave E
+High Park Outdoor Pool,High Park Outdoor Pool,7460,43.649217,-79.465319,26,REGULAR,M6R 2Z3,M6R,High Park Outdoor Pool
+Park Lawn Rd / Berry Rd,Park Lawn Rd / Berry Rd,7755,43.6356059,-79.4934616,15,VAULT,M8Y 3K2,M8Y,NULL
+Pharmacy Ave / Danforth Ave,Pharmacy Ave / Danforth Ave,7733,43.6929478,-79.2833998,15,VAULT,M1L 4N7,M1L,NULL
+Briar Hill Ave / Yonge St - SMART,Briar Hill Ave / Yonge St - SMART,7484,43.713524,-79.400162,16,SMARTMAPFRAME,M4P 2J2,M4P,Briar Hill Ave / Yonge St - SMART
+Toronto Inukshuk Park,Toronto Inukshuk Park,7569,43.6323994,-79.4097818,47,REGULAR,M6K 3C3,M6K,Toronto Inukshuk Park
+Princes' Blvd / Nunavut Rd,Princes' Blvd / Nunavut Rd,7680,43.6334636,-79.4143057,19,REGULAR,M6K 3C3,M6K,Princes Gate / Nunavut Dr
+Lake Shore Blvd E / Knox Ave,Lake Shore Blvd E / Knox Ave,7319,43.660206,-79.3244,11,REGULAR,NULL,NULL,Lake Shore Blvd E / Knox Ave
+Durie St / Dundas St W,Durie St / Dundas St W,7564,43.665523,-79.484892,23,REGULAR,M6S 2S1,M6S,Durie St / Dundas St W
+Ripley Ave / Ormskirk Ave,Ripley Ave / Ormskirk Ave,7517,43.6390437,-79.4760109,23,REGULAR,M6S 3N9,M6S,Ripley Ave / Ormskirk Ave
+Livingston Rd (Highland Creek Trail),Livingston Rd (Highland Creek Trail),7613,43.7561681,-79.2026694,27,REGULAR,M1E 1M4,M1E,Livingston Rd (Highland Creek Trail)
+Gerrard St E / Main St,Gerrard St E / Main St,7486,43.684261,-79.299332,22,REGULAR,M4E 2E1,M4E,Gerrard St E / Ted Reeve Dr
+Starspray Ave / Lawrence Ave E,Starspray Ave / Lawrence Ave E,7617,43.788319,-79.123505,23,REGULAR,M1C 4P5,M1C,Starspray Ave / Lawrence Ave E
+Goodwood Park Ct / Dentonia Park,Goodwood Park Ct / Dentonia Park,7448,43.694826,-79.295208,19,REGULAR,M4C2G5,M4C,Goodwood Park Ct / Dentonia Park
+Elwood Blvd / Avenue Rd,Elwood Blvd / Avenue Rd,7591,43.707049,-79.40966,23,REGULAR,M5N 3B1,M5N,Elwood Blvd / Avenue Rd
+Marie Curtis Park,Marie Curtis Park,7622,43.5880774,-79.5432067,23,REGULAR,M8W 3P3,M8W,Marie Curtis Park
+Morningside Park (Highland Creek Trail),Morningside Park (Highland Creek Trail),7614,43.779353,-79.193023,23,REGULAR,M1E 3E8,M1E,Morningside Park (Highland Creek Trail)
+Colonel Danforth Park,Colonel Danforth Park,7615,43.7777114,-79.1659711,27,REGULAR,M1C 1P8,M1C,Colonel Danforth Park
+Kingston Rd / Glen Everest Rd,Kingston Rd / Glen Everest Rd,7737,43.69749005,-79.25655146,15,VAULT,M1N 1J2,M1N,NULL
+G Ross Lord Park,G Ross Lord Park,7588,43.7781116,-79.467963,31,REGULAR,M3H 5T4,M3H,G Ross Lord Park
+Weston Lions Park,Weston Lions Park,7567,43.698841,-79.519472,27,REGULAR,M9N 1H7,M9N,Weston Lions Park
+Blantyre Park,Blantyre Park,7068,43.6830689,-79.279682,22,REGULAR,M1N 1N3,M1N,Blantyre Park
+Cherry Beach Sports Field (55 Unwin Ave),Cherry Beach Sports Field (55 Unwin Ave),7345,43.6408346,-79.3429074,15,REGULAR,M5A 1A3,M5A,Cherry Beach Sports Field (55 Unwin Ave)
+York University (Glendon Campus) - SMART,York University (Glendon Campus) - SMART,7676,43.72736549,-79.38142546,16,SMARTMAPFRAME,M4N 3R4,M4N,York University (Glendon Campus) - SMART
+Wilket Creek Park,Wilket Creek Park,7608,43.720645,-79.355474,27,REGULAR,M3C 2J7,M3C,Wilket Creek Park
+Eglinton Ave W / Prospect Cemetery,Eglinton Ave W / Prospect Cemetery,7742,43.69415,-79.4578258,19,VAULT,M6E 2K7,M6E,NULL
+Berry Rd / Bell Manor Dr,Berry Rd / Bell Manor Dr,7558,43.63732,-79.489083,19,REGULAR,M8Y 1W5,M8Y,Berry Rd / Bell Manor Dr
+Wendover Rd / Bloor St W (Green P),Wendover Rd / Bloor St W (Green P),7749,43.6492,-79.50602,15,VAULT,M8X 1B2,M8X,NULL
+Birchcliff Ave / Kingston Rd,Birchcliff Ave / Kingston Rd,7735,43.691688,-79.265027,15,VAULT,M1M 1R9,M1M,NULL
+The Pond Rd / Shoreham Dr,The Pond Rd / Shoreham Dr,7759,43.772445,-79.511912,15,VAULT,M3J 3M4,M3J,NULL
+Danforth Ave / Warden Ave,Danforth Ave / Warden Ave,7734,43.6950192,-79.2718066,15,VAULT,M1L 4G2,M1L,NULL
+Torresdale Ave / Antibes Dr,Torresdale Ave / Antibes Dr,7589,43.77953,-79.45233,15,REGULAR,M2R 3T2,M2R,Torresdale Ave / Antibes Dr
+Rouge Hill GO Station,Rouge Hill GO Station,7626,43.7805505,-79.1301203,25,REGULAR,M1C 5G4,M1C,Rouge Hill GO Station
+Birchmount Rd / Kingston Rd,Birchmount Rd / Kingston Rd,7736,43.69401298,-79.26257205,15,VAULT,M1N 3J6,M1N,NULL
+NULL,NULL,0,0,0,0,NULL,NULL,NULL,NULL
