@@ -1,4 +1,8 @@
-# Co-curricular workshop: Network visualization in Gephi 
+
+## Network visualization in Gephi: Spotify artist collaborations data
+Original Edge and Node datasets were created by Julian Freyburg and shared via Kaggle: https://www.kaggle.com/datasets/jfreyberg/spotify-artist-feature-collaboration-network 
+
+## Network visualization in Gephi: Bike Share data
 
 Edge dataset is derived from Bike Share Toronto Ridership dataset in the City of Toronto's Open Data Portal: the https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
 
